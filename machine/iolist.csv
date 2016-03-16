@@ -1,0 +1,1792 @@
+ControlBox1,Input,D500.0,X020,面板Robot Hold按鈕
+ControlBox1,Input,D500.1,X021,EMO急停迴路#1
+ControlBox1,Input,D500.2,X022,EMO急停迴路#2
+ControlBox1,Input,D500.3,X023,市電異常
+ControlBox1,Input,D500.4,X024,手/自動選擇
+ControlBox1,Input,D500.5,X025,重置鈕
+ControlBox1,Input,D500.6,X026,停止鈕
+ControlBox1,Input,D500.7,X027,啟動鈕
+ControlBox1,Input,D500.8,X028, POWER ON
+ControlBox1,Input,D500.9,X029,CDA壓力開關#1
+ControlBox1,Input,D500.10,X02A,DIW Flow開關
+ControlBox1,Input,D500.11,X02B,漏液Sensor#1
+ControlBox1,Input,D500.12,X02C,漏液Sensor#2
+ControlBox1,Input,D500.13,X02D,漏液Sensor#3
+ControlBox1,Input,D500.14,X02E,漏液Sensor#4
+ControlBox1,Input,D500.15,X02F,漏液Sensor#5
+ControlBox1,Input,D501.0,X030,Spare
+ControlBox1,Input,D501.1,X031,差壓計#1(Exhaust)
+ControlBox1,Input,D501.2,X032,差壓計#2(Exhaust)
+ControlBox1,Input,D501.3,X033,差壓計#3(Exhaust)
+ControlBox1,Input,D501.4,X034,差壓計#4(Exhaust)
+ControlBox1,Input,D501.5,X035,差壓計#5(Exhaust)
+ControlBox1,Input,D501.6,X036,Spare
+ControlBox1,Input,D501.7,X037,Interlock前段正面Door 1、2
+ControlBox1,Input,D501.8,X038,Interlock前段正面Door 3、4
+ControlBox1,Input,D501.9,X039,Interlock前段正面Door 5、6
+ControlBox1,Input,D501.10,X03A,Interlock前段正面Door 7、8
+ControlBox1,Input,D501.11,X03B,Spare
+ControlBox1,Input,D501.12,X03C,Interlock前段背面Door 1、2
+ControlBox1,Input,D501.13,X03D,Interlock前段背面Door 3、4
+ControlBox1,Input,D501.14,X03E,Interlock前段背面Door 5、6
+ControlBox1,Input,D501.15,X03F,Interlock前段背面Door 7、8
+ControlBox1,Input,D502.0,X040,Interlock前段背面Door 9、10
+ControlBox1,Input,D502.1,X041,RB1 Lock-1 sensor#1
+ControlBox1,Input,D502.2,X042,RB1 Unlock-1 sensor#1
+ControlBox1,Input,D502.3,X043,RB1 Lock-1 sensor#2
+ControlBox1,Input,D502.4,X044,RB1 Unlock-1 sensor#2
+ControlBox1,Input,D502.5,X045,RB1 Lock-1 sensor#3
+ControlBox1,Input,D502.6,X046,RB1 Unlock-1 sensor#3
+ControlBox1,Input,D502.7,X047,RB1 Lock-1 sensor#4
+ControlBox1,Input,D502.8,X048,RB1 Unlock-1 sensor#4
+ControlBox1,Input,D502.9,X049,Spare
+ControlBox1,Input,D502.10,X04A,Standby
+ControlBox1,Input,D502.11,X04B,Transmit  Possible
+ControlBox1,Input,D502.12,X04C,Transmit  Complete
+ControlBox1,Input,D502.13,X04D,Alarm
+ControlBox1,Input,D502.14,X04E,Interlock2
+ControlBox1,Input,D502.15,X04F,Dosing 漏液Sensor#1(SC.1 Dosing)
+ControlBox1,Input,D503.0,X050,Dosing 漏液Sensor#2(KOH.1~2 Dosing1)
+ControlBox1,Input,D503.1,X051,Dosing 漏液Sensor#3(KOH.1~2 Dosing2)
+ControlBox1,Input,D503.2,X052,Dosing 漏液Sensor#4(KOH.3~4 Dosing1)
+ControlBox1,Input,D503.3,X053,Dosing 漏液Sensor#5(KOH.3~4 Dosing2)
+ControlBox1,Input,D503.4,X054,前段台車Robot-1 防撞
+ControlBox1,Input,D503.5,X055,前段台車Robot-1 Hold
+ControlBox1,Input,D503.6,X056,Spare
+ControlBox1,Input,D503.7,X057,LD Carrier pos.A1
+ControlBox1,Input,D503.8,X058,LD Carrier pos.B1
+ControlBox1,Input,D503.9,X059,LD Carrier pos.A2
+ControlBox1,Input,D503.10,X05A,LD Carrier pos.B2
+ControlBox1,Input,D503.11,X05B,LD Carrier pos.A3
+ControlBox1,Input,D503.12,X05C,LD Carrier pos.B3
+ControlBox1,Input,D503.13,X05D,Carrier上壓桿偵測 A1
+ControlBox1,Input,D503.14,X05E,Carrier上壓桿偵測 B1
+ControlBox1,Input,D503.15,X05F,Spare
+ControlBox1,Input,D504.0,X060,LD Carrier.Align.A1
+ControlBox1,Input,D504.1,X061,LD Carrier.Align.B1
+ControlBox1,Input,D504.2,X062,Spare
+ControlBox1,Input,D504.3,X063,LD.Shut.CLS
+ControlBox1,Input,D504.4,X064,LD.Shut.OPN
+ControlBox1,Input,D504.5,X065,LD.Shut.OPN確認
+ControlBox1,Input,D504.6,X066,LD.Shut.Motor Alarm
+ControlBox1,Input,D504.7,X067,LD 自動門.CLS
+ControlBox1,Input,D504.8,X068,LD.自動門.OPN
+ControlBox1,Input,D504.9,X069,Spare
+ControlBox1,Input,D504.10,X06A,LD.EMO按鈕(Robot Hold)
+ControlBox1,Input,D504.11,X06B,LD 安全光閘
+ControlBox1,Input,D504.12,X06C,LD 入料按鈕
+ControlBox1,Input,D504.13,X06D,LD氣缸下定位2
+ControlBox1,Input,D504.14,X06E,LD氣缸上定位2
+ControlBox1,Input,D504.15,X06F,LD氣缸下定位1
+ControlBox1,Input,D505.0,X070,LD氣缸上定位1
+ControlBox1,Input,D505.1,X071,Spare
+ControlBox1,Input,D505.2,X072,Spare
+ControlBox1,Input,D505.3,X073,LD.橫移前定位
+ControlBox1,Input,D505.4,X074,LD.橫移後定位
+ControlBox1,Input,D505.5,X075,Spare
+ControlBox1,Input,D505.6,X076,SC.1(Tank2)Temp.Lo
+ControlBox1,Input,D505.7,X077,SC.1(Tank2)Temp.Hi
+ControlBox1,Input,D505.8,X078,SC.1(Tank2)SCR.Fuse
+ControlBox1,Input,D505.9,X079,SC.1(Tank2)Pump.Overload
+ControlBox1,Input,D505.10,X07A,SC.1(Tank2)UltraSonic.Overload
+ControlBox1,Input,D505.11,X07B,SC1超溫保護
+ControlBox1,Input,D505.12,X07C,SC.1(Tank2)Shut.CLS
+ControlBox1,Input,D505.13,X07D,SC.1(Tank2)Shut.OPN
+ControlBox1,Input,D505.14,X07E,SC.1(Tank2)Shut.OPN確認
+ControlBox1,Input,D505.15,X07F,SC.1(Tank2)Shut.Motor Alarm
+ControlBox1,Input,D506.0,X080,SC.1(Tank2)上槽Lev.Hi
+ControlBox1,Input,D506.1,X081,SC.1(Tank2)Lev.LoLo
+ControlBox1,Input,D506.2,X082,SC.1(Tank2)Lev.Lo
+ControlBox1,Input,D506.3,X083,SC.1(Tank2)Lev.Hi
+ControlBox1,Input,D506.4,X084,SC.1(Tank2)Lev.Hi Hi
+ControlBox1,Input,D506.5,X085,SC.1(Tank2)Lev.Make1(KOH)
+ControlBox1,Input,D506.6,X086,SC.1(Tank2)Lev.Make2(H2O2)
+ControlBox1,Input,D506.7,X087,Spare
+ControlBox1,Input,D506.8,X088,SC.1(Tank2)UltraSonic.Lev.Lo
+ControlBox1,Input,D506.9,X089,SC.1(Tank2)UltraSonic.Lev.Hi
+ControlBox1,Input,D506.10,X08A,Spare
+ControlBox1,Input,D506.11,X08B,SC.1(Tank2)Dosing(H2O2).Hi
+ControlBox1,Input,D506.12,X08C,SC.1(Tank2)Dosing(H2O2).Lo
+ControlBox1,Input,D506.13,X08D,SC.1(Tank2)Dosing(NH4OH).Hi
+ControlBox1,Input,D506.14,X08E,SC.1(Tank2)Dosing(NH4OH).Lo
+ControlBox1,Input,D506.15,X08F,SC.1(Tank2)Dosing(DIW).Hi
+ControlBox1,Input,D507.0,X090,SC.1(Tank2)Dosing(DIW).Lo
+ControlBox1,Input,D507.1,X091,Spare
+ControlBox1,Input,D507.2,X092,HDIW.1(Tank3)Shut.CLS
+ControlBox1,Input,D507.3,X093,HDIW.1(Tank3)Shut.OPN
+ControlBox1,Input,D507.4,X094,HDIW.1(Tank3)Shut.OPN確認
+ControlBox1,Input,D507.5,X095,HDIW.1(Tank3)Shut.Motor Alarm
+ControlBox1,Input,D507.6,X096,HDIW.1(Tank3).Temp.Lo
+ControlBox1,Input,D507.7,X097,HDIW.1(Tank3).Temp.Hi
+ControlBox1,Input,D507.8,X098,HDIW.1(Tank3).SCR.Fuse
+ControlBox1,Input,D507.9,X099,HDIW.1(Tank3).Pump.Overload
+ControlBox1,Input,D507.10,X09A,HDIW1超溫保護
+ControlBox1,Input,D507.11,X09B,Spare
+ControlBox1,Input,D507.12,X09C,HDIW.1(Tank3).Lev.LoLo
+ControlBox1,Input,D507.13,X09D,HDIW.1(Tank3).Lev.Lo
+ControlBox1,Input,D507.14,X09E,HDIW.1(Tank3).Lev.Hi
+ControlBox1,Input,D507.15,X09F,HDIW.1(Tank3).Lev.Hi Hi
+ControlBox1,Input,D508.0,X0A0,KOH.1(Tank4)Shut.CLS
+ControlBox1,Input,D508.1,X0A1,KOH.1(Tank4)Shut.OPN
+ControlBox1,Input,D508.2,X0A2,KOH.1(Tank4)Shut.OPN確認
+ControlBox1,Input,D508.3,X0A3,KOH.1(Tank4)Shut.Motor Alarm
+ControlBox1,Input,D508.4,X0A4,KOH.2(Tank5)Shut.CLS
+ControlBox1,Input,D508.5,X0A5,KOH.2(Tank5)Shut.OPN
+ControlBox1,Input,D508.6,X0A6,KOH.2(Tank5)Shut.OPN確認
+ControlBox1,Input,D508.7,X0A7,KOH.2(Tank5)Shut.Motor Alarm
+ControlBox1,Input,D508.8,X0A8,TEXA(Tank4~5).Temp.Lo
+ControlBox1,Input,D508.9,X0A9,TEXA(Tank4~5).Temp.Hi
+ControlBox1,Input,D508.10,X0AA,TEXA(Tank4~5).SCR.Fuse
+ControlBox1,Input,D508.11,X0AB,TEXA超溫保護
+ControlBox1,Input,D508.12,X0AC,TEXA Pump(內循環)Overload
+ControlBox1,Input,D508.13,X0AD,KOH.Pump(Tank4)Overload
+ControlBox1,Input,D508.14,X0AE,KOH.Pump(Tank5)Overload
+ControlBox1,Input,D508.15,X0AF,Spare
+ControlBox1,Input,D509.0,X0B0,
+ControlBox1,Input,D509.1,X0B1,TEXA_1(Tank4)上槽Lev.Hi
+ControlBox1,Input,D509.2,X0B2,TEXA_2(Tank5)上槽Lev.Hi
+ControlBox1,Input,D509.3,X0B3,TEXA.Lev.LoLo
+ControlBox1,Input,D509.4,X0B4,TEXA..Lev.Lo
+ControlBox1,Input,D509.5,X0B5,TEXA..Lev.Hi
+ControlBox1,Input,D509.6,X0B6,TEXA..Lev.Hi Hi
+ControlBox1,Input,D509.7,X0B7,KOH(Tank4~5).Lev.Make1(IPA)
+ControlBox1,Input,D509.8,X0B8,KOH(Tank4~5).Lev.Make2(KOH)
+ControlBox1,Input,D509.9,X0B9,
+ControlBox1,Input,D509.10,X0BA,TEXA .Dosing(DIW).Hi
+ControlBox1,Input,D509.11,X0BB,TEXA.Dosing(DIW).Lo
+ControlBox1,Input,D509.12,X0BC,TEXA Dosing(KOH).Hi
+ControlBox1,Input,D509.13,X0BD,TEXA.Dosing(KOH).Lo
+ControlBox1,Input,D509.14,X0BE,TEXA Dosing(IPA).Hi
+ControlBox1,Input,D509.15,X0BF,TEXA.Dosing(IPA).Lo
+ControlBox1,Input,D510.0,X0C0,
+ControlBox1,Input,D510.1,X0C1,添加劑 lev.Hi
+ControlBox1,Input,D510.2,X0C2, 添加劑 lev.Lo
+ControlBox1,Input,D510.3,X0C3,TEXA Rationing Pump Alarm
+ControlBox1,Input,D510.4,X0C4,TEXB .Rationing Pump alarm
+ControlBox1,Input,D510.5,X0C5,GP.攪拌 Pump Overload
+ControlBox1,Input,D510.6,X0C6,
+ControlBox1,Input,D510.7,X0C7,HDIW.2(Tank6)Shut.CLS
+ControlBox1,Input,D510.8,X0C8,HDIW.2(Tank6)Shut.OPN
+ControlBox1,Input,D510.9,X0C9,HDIW.2(Tank6)Shut.OPN確認
+ControlBox1,Input,D510.10,X0CA,HDIW.2(Tank6)Shut.Motor Alarm
+ControlBox1,Input,D510.11,X0CB,HDIW.2(Tank6).Temp.Lo
+ControlBox1,Input,D510.12,X0CC,HDIW.2(Tank6).Temp.Hi
+ControlBox1,Input,D510.13,X0CD,HDIW.2(Tank6).SCR.Fuse
+ControlBox1,Input,D510.14,X0CE,HDIW.2(Tank6).Pump.Overload
+ControlBox1,Input,D510.15,X0CF,HDIW2超溫保護
+ControlBox1,Input,D511.0,X0D0,Spare
+ControlBox1,Input,D511.1,X0D1,HDIW.2(Tank6).Lev.LoLo
+ControlBox1,Input,D511.2,X0D2,HDIW.2(Tank6).Lev.Lo
+ControlBox1,Input,D511.3,X0D3,HDIW.2(Tank6).Lev.Hi
+ControlBox1,Input,D511.4,X0D4,HDIW.2(Tank6).Lev.Hi Hi
+ControlBox1,Input,D511.5,X0D5,KOH.3(Tank7)Shut.CLS
+ControlBox1,Input,D511.6,X0D6,KOH.3(Tank7)Shut.OPN
+ControlBox1,Input,D511.7,X0D7,KOH.3(Tank7)Shut.OPN確認
+ControlBox1,Input,D511.8,X0D8,KOH.3(Tank7)Shut.Motor Alarm
+ControlBox1,Input,D511.9,X0D9,KOH.4(Tank8)Shut.CLS
+ControlBox1,Input,D511.10,X0DA,KOH.4(Tank8)Shut.OPN
+ControlBox1,Input,D511.11,X0DB,KOH.4(Tank8)Shut.OPN確認
+ControlBox1,Input,D511.12,X0DC,KOH.4(Tank8)Shut.Motor Alarm
+ControlBox1,Input,D511.13,X0DD,TEXB(Tank7~8).Temp.Lo
+ControlBox1,Input,D511.14,X0DE,TEXB(Tank7~8).Temp.Hi
+ControlBox1,Input,D511.15,X0DF,TEXB(Tank7~8).SCR.Fuse
+ControlBox1,Input,D512.0,X0E0,TEXB超溫保護
+ControlBox1,Input,D512.1,X0E1,TEXB(內循環)Overload
+ControlBox1,Input,D512.2,X0E2,TEXB_1 Pump(Tank7)Overload
+ControlBox1,Input,D512.3,X0E3,TEXB_2 Pump(Tank8)Overload
+ControlBox1,Input,D512.4,X0E4,
+ControlBox1,Input,D512.5,X0E5,TEXB_1上槽Lev.Hi
+ControlBox1,Input,D512.6,X0E6,TEXB_2上槽Lev.Hi
+ControlBox1,Input,D512.7,X0E7,TEXB.Lev.LoLo
+ControlBox1,Input,D512.8,X0E8,TEXB.Lev.Lo
+ControlBox1,Input,D512.9,X0E9,TEXB.Lev.Hi
+ControlBox1,Input,D512.10,X0EA,TEXB.Lev.Hi Hi
+ControlBox1,Input,D512.11,X0EB,KOH.3~4(Tank7~8).Lev.Make1(IPA)
+ControlBox1,Input,D512.12,X0EC,KOH.3~4(Tank7~8).Lev.Make2(KOH)
+ControlBox1,Input,D512.13,X0ED,
+ControlBox1,Input,D512.14,X0EE,TEXB.Dosing(DIW).Hi
+ControlBox1,Input,D512.15,X0EF,TEXB.Dosing(DIW).Lo
+ControlBox1,Input,D513.0,X0F0,TEXB.Dosing(KOH).Hi
+ControlBox1,Input,D513.1,X0F1,TEXB.Dosing(KOH).Lo
+ControlBox1,Input,D513.2,X0F2,TEXB.Dosing(IPA).Hi
+ControlBox1,Input,D513.3,X0F3,TEXB Dosing(IPA).Lo
+ControlBox1,Input,D513.4,X0F4,
+ControlBox1,Input,D513.5,X0F5,Preheat.1 Temp.Lo
+ControlBox1,Input,D513.6,X0F6,Preheat.1 Temp.Hi
+ControlBox1,Input,D513.7,X0F7,Preheat.1 SCR.Fuse
+ControlBox1,Input,D513.8,X0F8,Preheat.1 Pump.Overload
+ControlBox1,Input,D513.9,X0F9,Preheater.1超溫保護
+ControlBox1,Input,D513.10,X0FA,Preheat.1 Lev.LoLo
+ControlBox1,Input,D513.11,X0FB,Preheat.1 Lev.Lo
+ControlBox1,Input,D513.12,X0FC,Preheat.1 Lev.HI
+ControlBox1,Input,D513.13,X0FD,Preheat.1 Lev.HI HI
+ControlBox1,Input,D513.14,X0FE,Spare
+ControlBox1,Input,D513.15,X0FF,Preheat.1 漏液Sensor#1
+ControlBox1,Input,D514.0,X100,Preheat.1 漏液Sensor#2
+ControlBox1,Input,D514.1,X101,
+ControlBox1,Input,D514.2,X102,Preheat.2 Temp.Lo
+ControlBox1,Input,D514.3,X103,Preheat.2 Temp.Hi
+ControlBox1,Input,D514.4,X104,Preheat.2 SCR.Fuse
+ControlBox1,Input,D514.5,X105,Preheat.2 Pump.Overload
+ControlBox1,Input,D514.6,X106,Preheater.2超溫保護
+ControlBox1,Input,D514.7,X107,Preheat.2 Lev.LoLo
+ControlBox1,Input,D514.8,X108,Preheat.2 Lev.Lo
+ControlBox1,Input,D514.9,X109,Preheat.2 Lev.HI
+ControlBox1,Input,D514.10,X10A,Preheat.2 Lev.HI HI
+ControlBox1,Input,D514.11,X10B,
+ControlBox1,Input,D514.12,X10C,Preheat.2 漏液Sensor#1
+ControlBox1,Input,D514.13,X10D,Preheat.2 漏液Sensor#2
+ControlBox1,Input,D514.14,X10E,
+ControlBox1,Input,D514.15,X10F,KOH BUF Lev.LoLo
+ControlBox1,Input,D515.0,X110,KOH BUF Lev.Lo
+ControlBox1,Input,D515.1,X111,KOH BUF Lev.Hi
+ControlBox1,Input,D515.2,X112,KOH BUF Lev.HiHi
+ControlBox1,Input,D515.3,X113,Spare
+ControlBox1,Input,D515.4,X114,KOH BUF Pump Overload
+ControlBox1,Input,D515.5,X115,KOH BUF 漏液Sensor
+ControlBox1,Input,D515.6,X116,
+ControlBox1,Input,D515.7,X117,
+ControlBox1,Input,D515.8,X118,RB(1~2) Tech Box(上)
+ControlBox1,Input,D515.9,X119,RB(1~2) Tech Box(下)
+ControlBox1,Input,D515.10,X11A,RB(1~2) Tech Box(左)
+ControlBox1,Input,D515.11,X11B,RB(1~2) Tech Box(右)
+ControlBox1,Input,D515.12,X11C,RB(1~2) Tech Box(速度切換)
+ControlBox1,Input,D515.13,X11D,RB(1~2) Tech Box(RB Hold)
+ControlBox1,Input,D515.14,X11E,RB(1~2) Tech Box(前RB)
+ControlBox1,Input,D515.15,X11F,RB(1~2) Tech Box(後RB)
+ControlBox1,Output,D550.0,Y120,電源指示燈(面板)
+ControlBox1,Output,D550.1,Y121,手/自動旋鈕燈(面板)
+ControlBox1,Output,D550.2,Y122,重置按鈕燈(面板)
+ControlBox1,Output,D550.3,Y123,停止按鈕燈(面板)
+ControlBox1,Output,D550.4,Y124,啟動按鈕燈(面板)
+ControlBox1,Output,D550.5,Y125,火災切斷電力系統
+ControlBox1,Output,D550.6,Y126,重置按鈕(Reset)
+ControlBox1,Output,D550.7,Y127,
+ControlBox1,Output,D550.8,Y128,前段日光燈(正面#1，正面#2)
+ControlBox1,Output,D550.9,Y129,前段日光燈(正面#3，正面#4)
+ControlBox1,Output,D550.10,Y12A,前段日光燈(正面#5)
+ControlBox1,Output,D550.11,Y12B,Spare
+ControlBox1,Output,D550.12,Y12C,前段日光燈(背面#1)
+ControlBox1,Output,D550.13,Y12D,Spare
+ControlBox1,Output,D550.14,Y12E,Bubble(HDIW1~2 Tank).Bubble(電磁閥)
+ControlBox1,Output,D550.15,Y12F,Spare
+ControlBox1,Output,D551.0,Y130,前段三色燈塔(紅)
+ControlBox1,Output,D551.1,Y131,前段三色燈塔(黃)
+ControlBox1,Output,D551.2,Y132,前三色燈塔(綠)
+ControlBox1,Output,D551.3,Y133,前三色燈塔(蜂鳴器)
+ControlBox1,Output,D551.4,Y134,Spare
+ControlBox1,Output,D551.5,Y135,Spare
+ControlBox1,Output,D551.6,Y136,前段CDA總閥
+ControlBox1,Output,D551.7,Y137,前段DIW總閥(電磁閥)
+ControlBox1,Output,D551.8,Y138,Spare
+ControlBox1,Output,D551.9,Y139,LD Standby 
+ControlBox1,Output,D551.10,Y13A,LD Request
+ControlBox1,Output,D551.11,Y13B,LD Receive Complete
+ControlBox1,Output,D551.12,Y13C,LD Alarm
+ControlBox1,Output,D551.13,Y13D,LD Interlock1
+ControlBox1,Output,D551.14,Y13E,Spare
+ControlBox1,Output,D551.15,Y13F,前段Robot1 Chucklock1(電磁閥)
+ControlBox1,Output,D552.0,Y140,前段Robot1 Chucklock2(電磁閥)
+ControlBox1,Output,D552.1,Y141,前段RB Tower(紅燈/綠燈)
+ControlBox1,Output,D552.2,Y142,前段Robot1 Carrier Clean(電磁閥)
+ControlBox1,Output,D552.3,Y143,前段Robot1Clean-1(電磁閥)
+ControlBox1,Output,D552.4,Y144,前段Robot1Clean-2(電磁閥)
+ControlBox1,Output,D552.5,Y145,前段Robot1夾爪伺服煞車
+ControlBox1,Output,D552.6,Y146,LD Shut Motor(CW)
+ControlBox1,Output,D552.7,Y147,LD Shut Motor(CCW)
+ControlBox1,Output,D552.8,Y148,LD Shut Shut Motor(RST)
+ControlBox1,Output,D552.9,Y149,LD提取汽缸1(下降)
+ControlBox1,Output,D552.10,Y14A,LD提取汽缸1(上升)
+ControlBox1,Output,D552.11,Y14B,LD提取汽缸2(下降)
+ControlBox1,Output,D552.12,Y14C,LD提取汽缸2(上升)
+ControlBox1,Output,D552.13,Y14D,
+ControlBox1,Output,D552.14,Y14E,
+ControlBox1,Output,D552.15,Y14F,LD移載汽缸(歸位)
+ControlBox1,Output,D553.0,Y150,LD移載汽缸(前送)
+ControlBox1,Output,D553.1,Y151,LD自動門(關閉)
+ControlBox1,Output,D553.2,Y152,LD自動門(開門)
+ControlBox1,Output,D553.3,Y153,LD入料鈕燈(LD面板)
+ControlBox1,Output,D553.4,Y154,SC.1(Tank2) Shut Motor(CW)
+ControlBox1,Output,D553.5,Y155,SC.1(Tank2) Shut Motor(CCW)
+ControlBox1,Output,D553.6,Y156,SC.1(Tank3) Shut Motor(RST)
+ControlBox1,Output,D553.7,Y157,SC.1(Tank2).Q_Drain(電磁閥)
+ControlBox1,Output,D553.8,Y158,SC.1(Tank2).W_Drain(電磁閥)
+ControlBox1,Output,D553.9,Y159,SC.1(Tank2).Hot DIW配槽閥(電磁閥)
+ControlBox1,Output,D553.10,Y15A,SC.1(Tank2).NH4OH配槽閥(電磁閥)
+ControlBox1,Output,D553.11,Y15B,SC.1(Tank2).H2O2配槽閥(電磁閥)
+ControlBox1,Output,D553.12,Y15C,SC.1(Tank2).配槽總閥
+ControlBox1,Output,D553.13,Y15D,SC.1(Tank2).DIW洗槽進水閥(電磁閥)
+ControlBox1,Output,D553.14,Y15E,SC.1(Tank2).UltraSonic 進水閥(電磁閥)
+ControlBox1,Output,D553.15,Y15F,SC.1(Tank2).UltraSonic 排水閥
+ControlBox1,Output,D554.0,Y160,SC.1(Tank2).UltraSonic Power
+ControlBox1,Output,D554.1,Y161,SC.1(Tank2).Pump W_Drain(電磁閥)
+ControlBox1,Output,D554.2,Y162,SC.1(Tank2).內循環閥(NO Vavle)(電磁閥)
+ControlBox1,Output,D554.3,Y163,SC.1(Tank2).Pump運轉(電磁閥)
+ControlBox1,Output,D554.4,Y164,SC1 ON:H2O2  OFF:NH4OH
+ControlBox1,Output,D554.5,Y165,TEXA ON:DIW  OFF:KOH
+ControlBox1,Output,D554.6,Y166,TEXB ON:DIW  OFF:KOH
+ControlBox1,Output,D554.7,Y167,SC.1(Tank2).運轉速度點位3
+ControlBox1,Output,D554.8,Y168,SC.1(Tank2)加熱(啟動/停止)
+ControlBox1,Output,D554.9,Y169,SC.1(Tank2).加熱器分路跳脫開關
+ControlBox1,Output,D554.10,Y16A,
+ControlBox1,Output,D554.11,Y16B,SC.1(Tank2).H2O2 Dosing(In).Valve
+ControlBox1,Output,D554.12,Y16C,SC.1(Tank2).H2O2Dosing(Out).Valve
+ControlBox1,Output,D554.13,Y16D,SC.1(Tank2).NH4OH Dosing(In).Valve
+ControlBox1,Output,D554.14,Y16E,SC.1(Tank2).NH4OH Dosing(Out).Valve
+ControlBox1,Output,D554.15,Y16F,SC.1(Tank2).DIW Dosing(In).Valve
+ControlBox1,Output,D555.0,Y170,SC.1(Tank2).DIW Dosing(Out).Valve
+ControlBox1,Output,D555.1,Y171,HDIW.1(Tank3) Shut Motor (CW)
+ControlBox1,Output,D555.2,Y172,HDIW.1(Tank3) Shut Motor (CCW)
+ControlBox1,Output,D555.3,Y173,HDIW.1(Tank3) Shut Motor(RST)
+ControlBox1,Output,D555.4,Y174,HDIW.1(Tank3).Q_Drain電磁閥
+ControlBox1,Output,D555.5,Y175,HDIW.1(Tank3).W_Drain電磁閥
+ControlBox1,Output,D555.6,Y176,HDIW.1(Tank3).DIW 捕水閥
+ControlBox1,Output,D555.7,Y177,HDIW.1(Tank3).DIW 手動捕水閥
+ControlBox1,Output,D555.8,Y178,HDIW.1(Tank3).加熱(啟動/停止)
+ControlBox1,Output,D555.9,Y179,HDIW.1(Tank3).加熱器分路跳脫開關
+ControlBox1,Output,D555.10,Y17A,TEXA_1(Tank4) Shut Motor(CW)
+ControlBox1,Output,D555.11,Y17B,TEXA_1(Tank4) Shut Motor(CCW)
+ControlBox1,Output,D555.12,Y17C,TEXA_1(Tank4) Shut Motor(RST)
+ControlBox1,Output,D555.13,Y17D,TEXA_2(Tank5) Shut Motor(CW)
+ControlBox1,Output,D555.14,Y17E,TEXA_2(Tank5) Shut Motor(CCW)
+ControlBox1,Output,D555.15,Y17F,TEXA_2(Tank5) Shut Motor(RST)
+ControlBox1,Output,D556.0,Y180,TEXA_1 Q_Drain電磁閥
+ControlBox1,Output,D556.1,Y181,TEXA_2.Q_Drain電磁閥
+ControlBox1,Output,D556.2,Y182,
+ControlBox1,Output,D556.3,Y183,TEXA_Drain1電磁閥
+ControlBox1,Output,D556.4,Y184,TEXA._Drain2電磁閥
+ControlBox1,Output,D556.5,Y185,TEXA._PARTIAL Drain電磁閥
+ControlBox1,Output,D556.6,Y186,
+ControlBox1,Output,D556.7,Y187,TEXA .HDIW配槽閥
+ControlBox1,Output,D556.8,Y188,TEXA .KOH配槽閥
+ControlBox1,Output,D556.9,Y189,KOH1~2(Tank4~5).IPA配槽閥
+ControlBox1,Output,D556.10,Y18A,KOH1~2(Tank4~5).配槽總閥(電磁閥)
+ControlBox1,Output,D556.11,Y18B,TEXA.DIW洗槽進水閥
+ControlBox1,Output,D556.12,Y18C,TEXA .內循環閥(NO Vavle)(電磁閥)
+ControlBox1,Output,D556.13,Y18D,TEXA.內循環Pump運轉
+ControlBox1,Output,D556.14,Y18E,
+ControlBox1,Output,D556.15,Y18F,
+ControlBox1,Output,D557.0,Y190,
+ControlBox1,Output,D557.1,Y191,TEXA_1(Tank4).Pump運轉(正轉)
+ControlBox1,Output,D557.2,Y192,TEXA_1(Tank4).Pump運轉(反轉)
+ControlBox1,Output,D557.3,Y193,TEXA_1(Tank4).INV ERR.RST
+ControlBox1,Output,D557.4,Y194,TEXA_1(Tank4).運轉速度點位1
+ControlBox1,Output,D557.5,Y195,TEXA_1(Tank4).運轉速度點位2
+ControlBox1,Output,D557.6,Y196,TEXA_1(Tank4).運轉速度點位3
+ControlBox1,Output,D557.7,Y197,TEXA_2(Tank5).Pump運轉(正轉)
+ControlBox1,Output,D557.8,Y198,TEXA_2(Tank5).Pump運轉(反轉)
+ControlBox1,Output,D557.9,Y199,TEXA_2(Tank5).INV ERR.RST
+ControlBox1,Output,D557.10,Y19A,TEXA_2(Tank5).運轉速度點位1
+ControlBox1,Output,D557.11,Y19B,TEXA_2(Tank5).運轉速度點位2
+ControlBox1,Output,D557.12,Y19C,TEXA_2(Tank5).運轉速度點位3
+ControlBox1,Output,D557.13,Y19D,Spare
+ControlBox1,Output,D557.14,Y19E,TEXA(Tank4~5).加熱(啟動/停止)
+ControlBox1,Output,D557.15,Y19F,TEXA(Tank4~5).加熱器分路跳脫開關
+ControlBox1,Output,D558.0,Y1A0,
+ControlBox1,Output,D558.1,Y1A1,TEXA.DIW Dosing(In)
+ControlBox1,Output,D558.2,Y1A2,TEXA.DIW Dosing(Out)
+ControlBox1,Output,D558.3,Y1A3,TEXA KOH Dosing(In).
+ControlBox1,Output,D558.4,Y1A4,TEXA KOH Dosing(Out)
+ControlBox1,Output,D558.5,Y1A5,TEXA IPA Dosing(In)
+ControlBox1,Output,D558.6,Y1A6,TEXA IPA Dosing(Out)
+ControlBox1,Output,D558.7,Y1A7,Spare
+ControlBox1,Output,D558.8,Y1A8,TEXA定量泵.Standby運轉
+ControlBox1,Output,D558.9,Y1A9,TEXA定量泵.Dosing
+ControlBox1,Output,D558.10,Y1AA,TEXB定量泵.Standby運轉
+ControlBox1,Output,D558.11,Y1AB,TEXB定量泵.Dosing
+ControlBox1,Output,D558.12,Y1AC,HDIW.2(Tank6) Shut Motor (CW)
+ControlBox1,Output,D558.13,Y1AD,HDIW.2(Tank6) Shut Motor (CCW)
+ControlBox1,Output,D558.14,Y1AE,HDIW.2(Tank6)  Shut Motor(RST)
+ControlBox1,Output,D558.15,Y1AF,HDIW.2(Tank6).Q_Drain電磁閥
+ControlBox1,Output,D559.0,Y1B0,HDIW.2(Tank6).W_Drain電磁閥
+ControlBox1,Output,D559.1,Y1B1,HDIW.2(Tank6).DIW 捕水閥
+ControlBox1,Output,D559.2,Y1B2,HDIW.2(Tank6).DIW 手動捕水閥
+ControlBox1,Output,D559.3,Y1B3,HDIW.2(Tank6).加熱(啟動/停止)
+ControlBox1,Output,D559.4,Y1B4,HDIW.2(Tank6).加熱器分路跳脫開關
+ControlBox1,Output,D559.5,Y1B5,TEXB_1(Tank7) Shut Motor(CW)
+ControlBox1,Output,D559.6,Y1B6,TEXB_1(Tank7) Shut Motor(CCW)
+ControlBox1,Output,D559.7,Y1B7,TEXB_1(Tank7) Shut Motor(RST)
+ControlBox1,Output,D559.8,Y1B8,TEXB_2(Tank8) Shut Motor(CW)
+ControlBox1,Output,D559.9,Y1B9,TEXB_2(Tank8) Shut Motor(CCW)
+ControlBox1,Output,D559.10,Y1BA,TEXB_2(Tank8) Shut Motor(RST)
+ControlBox1,Output,D559.11,Y1BB,TEXB_1.Q_Drain電磁閥
+ControlBox1,Output,D559.12,Y1BC,TEXB_2.Q_Drain電磁閥
+ControlBox1,Output,D559.13,Y1BD,
+ControlBox1,Output,D559.14,Y1BE,TEXB.W_Drain1電磁閥
+ControlBox1,Output,D559.15,Y1BF,TEXB.W_Drain2電磁閥
+ControlBox1,Output,D560.0,Y1C0,TEXB.W_PARTIAL Drain
+ControlBox1,Output,D560.1,Y1C1,
+ControlBox1,Output,D560.2,Y1C2,TEXB.Hot DIW配槽閥(電磁閥)
+ControlBox1,Output,D560.3,Y1C3,TEXB.KOH配槽閥(電磁閥)
+ControlBox1,Output,D560.4,Y1C4,TEXB.IPA配槽閥(電磁閥)
+ControlBox1,Output,D560.5,Y1C5,KOH3~4(Tank7~8).配槽總閥(電磁閥)
+ControlBox1,Output,D560.6,Y1C6,TEXB.DIW洗槽進水閥(電磁閥)
+ControlBox1,Output,D560.7,Y1C7,TEXB.內循環閥(NO Vavle)(電磁閥)
+ControlBox1,Output,D560.8,Y1C8,TEXB(內循環).Pump運轉
+ControlBox1,Output,D560.9,Y1C9,
+ControlBox1,Output,D560.10,Y1CA,TEXB_1.Pump運轉(正轉)
+ControlBox1,Output,D560.11,Y1CB,TEXB_1..Pump運轉(反轉)
+ControlBox1,Output,D560.12,Y1CC,TEXB_1..INV ERR.RST
+ControlBox1,Output,D560.13,Y1CD,TEXB_1..運轉速度點位1
+ControlBox1,Output,D560.14,Y1CE,TEXB_1..運轉速度點位2
+ControlBox1,Output,D560.15,Y1CF,TEXB_1..運轉速度點位3
+ControlBox1,Output,D561.0,Y1D0,TEXB_2..Pump運轉(正轉)
+ControlBox1,Output,D561.1,Y1D1,TEXB_2.Pump運轉(反轉)
+ControlBox1,Output,D561.2,Y1D2,TEXB_2.INV ERR.RST
+ControlBox1,Output,D561.3,Y1D3,TEXB_2.運轉速度點位1
+ControlBox1,Output,D561.4,Y1D4,TEXB_2.運轉速度點位2
+ControlBox1,Output,D561.5,Y1D5,TEXB_2.運轉速度點位3
+ControlBox1,Output,D561.6,Y1D6,
+ControlBox1,Output,D561.7,Y1D7,TEXB DIW Dosing(In)
+ControlBox1,Output,D561.8,Y1D8,TEXB.DIW Dosing(Out)
+ControlBox1,Output,D561.9,Y1D9,TEXB KOH Dosing(In)
+ControlBox1,Output,D561.10,Y1DA,TEXB.KOH Dosing(Out)
+ControlBox1,Output,D561.11,Y1DB,TEXB IPA Dosing(In)
+ControlBox1,Output,D561.12,Y1DC,TEXB.IPA Dosing(Out)
+ControlBox1,Output,D561.13,Y1DD,
+ControlBox1,Output,D561.14,Y1DE,TEXB(Tank7~8).加熱(啟動/停止)
+ControlBox1,Output,D561.15,Y1DF,TEXBTank7~8).加熱器分路跳脫開關
+ControlBox1,Output,D562.0,Y1E0,
+ControlBox1,Output,D562.1,Y1E1,Preheat.1 內循環Valve(電磁閥)
+ControlBox1,Output,D562.2,Y1E2,Preheat.1 DIW.IN.Valve(電磁閥)
+ControlBox1,Output,D562.3,Y1E3,Preheat.1 DIW.Out.總閥(電磁閥)
+ControlBox1,Output,D562.4,Y1E4,
+ControlBox1,Output,D562.5,Y1E5,Preheat.1 Pump
+ControlBox1,Output,D562.6,Y1E6,Preheat.1 加熱(啟動/停止)
+ControlBox1,Output,D562.7,Y1E7,Preheat.1 加熱器分路跳脫開關
+ControlBox1,Output,D562.8,Y1E8,
+ControlBox1,Output,D562.9,Y1E9,Preheat.2 內循環Valve(電磁閥)
+ControlBox1,Output,D562.10,Y1EA,Preheat.2 DIW.IN.Valve(電磁閥)
+ControlBox1,Output,D562.11,Y1EB,Preheat.2 DIW.Out.總閥(電磁閥)
+ControlBox1,Output,D562.12,Y1EC,
+ControlBox1,Output,D562.13,Y1ED,Preheat.2 Pump
+ControlBox1,Output,D562.14,Y1EE,Preheat.2 加熱(啟動/停止)
+ControlBox1,Output,D562.15,Y1EF,Preheat.2 加熱器分路跳脫開關
+ControlBox1,Output,D563.0,Y1F0,KOH BUF Pump
+ControlBox1,Output,D563.1,Y1F1,KOH BUF Out Valve
+ControlBox1,Output,D563.2,Y1F2,GP.攪拌Pump運轉(正轉)
+ControlBox1,Output,D563.3,Y1F3,GP.攪拌Pump運轉(反轉)
+ControlBox1,Output,D563.4,Y1F4,GP.攪拌 INV ERR.RST
+ControlBox1,Output,D563.5,Y1F5,GP.攪拌 運轉速度點位1
+ControlBox1,Output,D563.6,Y1F6,GP.攪拌 運轉速度點位2
+ControlBox1,Output,D563.7,Y1F7,GP.攪拌 運轉速度點位3
+ControlBox1,Output,D563.8,Y1F8,RB(1~2) Tech Box(上燈)
+ControlBox1,Output,D563.9,Y1F9,RB(1~2) Tech Box(下燈)
+ControlBox1,Output,D563.10,Y1FA,RB(1~2) Tech Box(左燈)
+ControlBox1,Output,D563.11,Y1FB,RB(1~2) Tech Box(右燈)
+ControlBox1,Output,D563.12,Y1FC,RB(1~2) Tech Box(速度切換燈)
+ControlBox1,Output,D563.13,Y1FD,RB(1~2) Tech Box(RB Hold燈)
+ControlBox1,Output,D563.14,Y1FE,Spare
+ControlBox1,Output,D563.15,Y1FF,Spare
+ControlBox2,Input,D516.0,X600,漏液Sensor#6
+ControlBox2,Input,D516.1,X601,漏液Sensor#7
+ControlBox2,Input,D516.2,X602,漏液Sensor#8
+ControlBox2,Input,D516.3,X603,漏液Sensor#9
+ControlBox2,Input,D516.4,X604,漏液Sensor#10
+ControlBox2,Input,D516.5,X605,漏液Sensor#11
+ControlBox2,Input,D516.6,X606,漏液Sensor#12
+ControlBox2,Input,D516.7,X607,漏液Sensor#13(VMB)
+ControlBox2,Input,D516.8,X608,Dosing漏液Sensor#14(HF Dosing)
+ControlBox2,Input,D516.9,X609,差壓計#6(Exhaust)
+ControlBox2,Input,D516.10,X60A,差壓計#7(Exhaust)
+ControlBox2,Input,D516.11,X60B,差壓計#8(Exhaust)
+ControlBox2,Input,D516.12,X60C,差壓計#9(Exhaust)
+ControlBox2,Input,D516.13,X60D,差壓計#10(Exhaust)
+ControlBox2,Input,D516.14,X60E,差壓計#11(Exhaust)
+ControlBox2,Input,D516.15,X60F,
+ControlBox2,Input,D517.0,X610,
+ControlBox2,Input,D517.1,X611,後段Interlock正面Door 1、2
+ControlBox2,Input,D517.2,X612,後段Interlock正面Door 3、4
+ControlBox2,Input,D517.3,X613,後段Interlock正面Door 5、6
+ControlBox2,Input,D517.4,X614,後段Interlock正面Door 7、8
+ControlBox2,Input,D517.5,X615,Spare
+ControlBox2,Input,D517.6,X616,後段Interlock背面Door 1、2
+ControlBox2,Input,D517.7,X617,後段Interlock背面Door 3、4
+ControlBox2,Input,D517.8,X618,後段Interlock背面Door 5、6
+ControlBox2,Input,D517.9,X619,後段Interlock背面Door 7、8
+ControlBox2,Input,D517.10,X61A,後段Interlock背面Door 9、10
+ControlBox2,Input,D517.11,X61B,
+ControlBox2,Input,D517.12,X61C,RB2 Lock-2 sensor#1
+ControlBox2,Input,D517.13,X61D,RB2 Unlock-2 sensor#1
+ControlBox2,Input,D517.14,X61E,RB2 Lock-2 sensor#2
+ControlBox2,Input,D517.15,X61F,RB2 Unlock-2 sensor#2
+ControlBox2,Input,D518.0,X620,RB2 Lock-2 sensor#3
+ControlBox2,Input,D518.1,X621,RB2 Unlock-2 sensor#3
+ControlBox2,Input,D518.2,X622,RB2 Lock-2 sensor#4
+ControlBox2,Input,D518.3,X623,RB2 Unlock-2 sensor#4
+ControlBox2,Input,D518.4,X624,RB3 Lock-3 sensor#1
+ControlBox2,Input,D518.5,X625,RB3 Unlock-3 sensor#1
+ControlBox2,Input,D518.6,X626,RB3 Lock-3 sensor#2
+ControlBox2,Input,D518.7,X627,RB3 Unlock-3 sensor#2
+ControlBox2,Input,D518.8,X628,RB3 Lock-3 sensor#3
+ControlBox2,Input,D518.9,X629,RB3 Unlock-3 sensor#3
+ControlBox2,Input,D518.10,X62A,RB3 Lock-3 sensor#4
+ControlBox2,Input,D518.11,X62B,RB3 Unlock-3 sensor#4
+ControlBox2,Input,D518.12,X62C,
+ControlBox2,Input,D518.13,X62D,CDA壓力開關#3
+ControlBox2,Input,D518.14,X62E,DIW Flow開關
+ControlBox2,Input,D518.15,X62F,Spare
+ControlBox2,Input,D519.0,X630,後段台車Robot-2 防撞
+ControlBox2,Input,D519.1,X631,後段台車Robot-2 Hold
+ControlBox2,Input,D519.2,X632,
+ControlBox2,Input,D519.3,X633,後段台車Robot-3 防撞
+ControlBox2,Input,D519.4,X634,後段台車Robot-3 Hold
+ControlBox2,Input,D519.5,X635,
+ControlBox2,Input,D519.6,X636,廠務HF供酸Ready
+ControlBox2,Input,D519.7,X637,廠務HCL供酸Ready
+ControlBox2,Input,D519.8,X638,廠務KOH供酸Ready
+ControlBox2,Input,D519.9,X639,廠務IPA供酸Ready
+ControlBox2,Input,D519.10,X63A,廠務H2O2供酸Ready
+ControlBox2,Input,D519.11,X63B,廠務NH4OH供酸Ready
+ControlBox2,Input,D519.12,X63C,
+ControlBox2,Input,D519.13,X63D,廠務通知Fire Alarm
+ControlBox2,Input,D519.14,X63E,廠務通知Pre-dischange
+ControlBox2,Input,D519.15,X63F,廠務通知Fault Alarm
+ControlBox2,Input,D520.0,X640,ULD Carrier pos.A1
+ControlBox2,Input,D520.1,X641,ULD Carrier pos.A1(防撞)
+ControlBox2,Input,D520.2,X642,ULD Carrier pos.B1
+ControlBox2,Input,D520.3,X643,ULD Carrier pos.B1(防撞)
+ControlBox2,Input,D520.4,X644,ULD Carrier pos.A2
+ControlBox2,Input,D520.5,X645,ULD Carrier pos.A2(減速)
+ControlBox2,Input,D520.6,X646,ULD Carrier pos.B2
+ControlBox2,Input,D520.7,X647,ULD Carrier pos.B2(減速)
+ControlBox2,Input,D520.8,X648,ULD Carrier pos.A3
+ControlBox2,Input,D520.9,X649,ULD Carrier pos.A3(減速)
+ControlBox2,Input,D520.10,X64A,ULD Carrier pos.B3
+ControlBox2,Input,D520.11,X64B,ULD Carrier pos.B3(減速)
+ControlBox2,Input,D520.12,X64C,ULD Carrier pos.A4
+ControlBox2,Input,D520.13,X64D,ULD Carrier pos.A4(防夾)
+ControlBox2,Input,D520.14,X64E,ULD Carrier pos.B4
+ControlBox2,Input,D520.15,X64F,ULD Carrier pos.B4(防夾)
+ControlBox2,Input,D521.0,X650,ULD Carrier pos.A5
+ControlBox2,Input,D521.1,X651,ULD Carrier pos.A5(防夾)
+ControlBox2,Input,D521.2,X652,ULD Carrier pos.B5
+ControlBox2,Input,D521.3,X653,ULD Carrier pos.B5(防夾)
+ControlBox2,Input,D521.4,X654,ULD Carrier pos.A6
+ControlBox2,Input,D521.5,X655,ULD Carrier pos.A6(減速)
+ControlBox2,Input,D521.6,X656,ULD Carrier pos.B6
+ControlBox2,Input,D521.7,X657,ULD Carrier pos.B6(減速)
+ControlBox2,Input,D521.8,X658,
+ControlBox2,Input,D521.9,X659,
+ControlBox2,Input,D521.10,X65A,ULD.Stoper1.TXD
+ControlBox2,Input,D521.11,X65B,ULD.Stoper1.TXU
+ControlBox2,Input,D521.12,X65C,ULD.Stoper2.TXD
+ControlBox2,Input,D521.13,X65D,ULD.Stoper2.TXU
+ControlBox2,Input,D521.14,X65E,ULD.Stoper3.TXD
+ControlBox2,Input,D521.15,X65F,ULD.Stoper3.TXU
+ControlBox2,Input,D522.0,X660,ULD.Stoper4.TXD
+ControlBox2,Input,D522.1,X661,ULD.Stoper4.TXU
+ControlBox2,Input,D522.2,X662,ULD.Stoper5.TXU
+ControlBox2,Input,D522.3,X663,ULD.Stoper5.TXD
+ControlBox2,Input,D522.4,X664,傳動1 Overload
+ControlBox2,Input,D522.5,X665,inline Pump Lo
+ControlBox2,Input,D522.6,X666,inline Hi
+ControlBox2,Input,D522.7,X667,inline HiHi
+ControlBox2,Input,D522.8,X668,inline Heater-2 Hi
+ControlBox2,Input,D522.9,X669,DRY.Shut.CLS
+ControlBox2,Input,D522.10,X66A,DRY.Shut.OPN
+ControlBox2,Input,D522.11,X66B,ULD.Shut.OPN確認
+ControlBox2,Input,D522.12,X66C,inline Heater-1 Hi
+ControlBox2,Input,D522.13,X66D,ULD 自動門.CLS
+ControlBox2,Input,D522.14,X66E,ULD.自動門.OPN
+ControlBox2,Input,D522.15,X66F,inlinePUM過載
+ControlBox2,Input,D523.0,X670,ULD.EMO按鈕(Robot Hold)
+ControlBox2,Input,D523.1,X671,ULD 安全光閘
+ControlBox2,Input,D523.2,X672,ULD 出料確認按鈕
+ControlBox2,Input,D523.3,X673,
+ControlBox2,Input,D523.4,X674,HDIW.3(Tank9).Shut.CLS
+ControlBox2,Input,D523.5,X675,HDIW.3(Tank9).Shut.OPN
+ControlBox2,Input,D523.6,X676,HDIW.3(Tank9).Shut.OPN確認
+ControlBox2,Input,D523.7,X677,HDIW.3(Tank9).Temp.Lo
+ControlBox2,Input,D523.8,X678,HDIW.3(Tank9).Temp.Hi
+ControlBox2,Input,D523.9,X679,HDIW.3(Tank9).SCR.Fuse
+ControlBox2,Input,D523.10,X67A,HDIW.3(Tank9).Pump Overload
+ControlBox2,Input,D523.11,X67B,HDIW3 超溫保護
+ControlBox2,Input,D523.12,X67C,HDIW.3(Tank9).Lev.LoLo
+ControlBox2,Input,D523.13,X67D,HDIW.3(Tank9).Lev.Lo
+ControlBox2,Input,D523.14,X67E,HDIW.3(Tank9).Lev.Hi
+ControlBox2,Input,D523.15,X67F,HDIW.3(Tank9).Lev.Hi Hi
+ControlBox2,Input,D524.0,X680,
+ControlBox2,Input,D524.1,X681,HDIW.4(Tank10).Shut.CLS
+ControlBox2,Input,D524.2,X682,HDIW.4(Tank10).Shut.OPN
+ControlBox2,Input,D524.3,X683,HDIW.4(Tank10).Shut.OPN確認
+ControlBox2,Input,D524.4,X684,HDIW.4(Tank10).Temp.Lo
+ControlBox2,Input,D524.5,X685,HDIW.4(Tank10).Temp.Hi
+ControlBox2,Input,D524.6,X686,HDIW.4(Tank10).SCR.Fuse
+ControlBox2,Input,D524.7,X687,HDIW.4(Tank10).Pump Overload
+ControlBox2,Input,D524.8,X688,HDIW4超溫保護
+ControlBox2,Input,D524.9,X689,HDIW.4(Tank10).Lev.LoLo
+ControlBox2,Input,D524.10,X68A,HDIW.4(Tank10).Lev.Lo
+ControlBox2,Input,D524.11,X68B,HDIW.4(Tank10).Lev.Hi
+ControlBox2,Input,D524.12,X68C,HDIW.4(Tank10).Lev.Hi Hi
+ControlBox2,Input,D524.13,X68D,Spare
+ControlBox2,Input,D524.14,X68E,HF(Tank11)Shut.CLS
+ControlBox2,Input,D524.15,X68F,HF(Tank11)Shut.OPN
+ControlBox2,Input,D525.0,X690,HF(Tank11)Shut.OPN確認
+ControlBox2,Input,D525.1,X691,HF(Tank11)Motor Alarm
+ControlBox2,Input,D525.2,X692,DISION Lev.LoLo
+ControlBox2,Input,D525.3,X693,DISION LevLev.Lo
+ControlBox2,Input,D525.4,X694,DISION Lev)Lev.Hi
+ControlBox2,Input,D525.5,X695,DISION Lev)Lev.Hi Hi
+ControlBox2,Input,D525.6,X696,DISION LevLev.Make1(HCL)
+ControlBox2,Input,D525.7,X697,DISION Lev)Lev.Make2(HF)
+ControlBox2,Input,D525.8,X698,Spare
+ControlBox2,Input,D525.9,X699,DISION Dosing(HCL).Hi
+ControlBox2,Input,D525.10,X69A,DISION )Dosing(HCL).Lo
+ControlBox2,Input,D525.11,X69B,DISION)Dosing(HF).Hi
+ControlBox2,Input,D525.12,X69C,DISION)Dosing(HF).Lo
+ControlBox2,Input,D525.13,X69D,HF(Tank11)Dosing(DIW).Hi
+ControlBox2,Input,D525.14,X69E,HF(Tank11)Dosing(DIW).Lo
+ControlBox2,Input,D525.15,X69F,
+ControlBox2,Input,D526.0,X6A0,HDIW.5(Tank12).Shut.CLS
+ControlBox2,Input,D526.1,X6A1,HDIW.5(Tank12).Shut.OPN
+ControlBox2,Input,D526.2,X6A2,HDIW.5(Tank12).Shut.OPN確認
+ControlBox2,Input,D526.3,X6A3,HDIW.5(Tank12).Temp.Lo
+ControlBox2,Input,D526.4,X6A4,HDIW.5(Tank12).Temp.Hi
+ControlBox2,Input,D526.5,X6A5,HDIW.5(Tank12).SCR.Fuse
+ControlBox2,Input,D526.6,X6A6,HDIW.5(Tank12).Pump Overload
+ControlBox2,Input,D526.7,X6A7,HDIW5超溫保護
+ControlBox2,Input,D526.8,X6A8,HDIW.5(Tank12).Lev.LoLo
+ControlBox2,Input,D526.9,X6A9,HDIW.5(Tank12).Lev.Lo
+ControlBox2,Input,D526.10,X6AA,HDIW.5(Tank12).Lev.Hi
+ControlBox2,Input,D526.11,X6AB,HDIW.5(Tank12).Lev.Hi Hi
+ControlBox2,Input,D526.12,X6AC,
+ControlBox2,Input,D526.13,X6AD,HDIW.6(Tank13).Shut.CLS
+ControlBox2,Input,D526.14,X6AE,HDIW.6(Tank13).Shut.OPN
+ControlBox2,Input,D526.15,X6AF,HDIW.6(Tank13).Shut.OPN確認
+ControlBox2,Input,D527.0,X6B0,HDIW.6(Tank13).Temp.Lo
+ControlBox2,Input,D527.1,X6B1,HDIW.6(Tank13).Temp.Hi
+ControlBox2,Input,D527.2,X6B2,HDIW.6(Tank13).SCR.Fuse
+ControlBox2,Input,D527.3,X6B3,HDIW.6(Tank13).Pump Overload
+ControlBox2,Input,D527.4,X6B4,HDIW6超溫保護
+ControlBox2,Input,D527.5,X6B5,HDIW.6(Tank13).Lev.LoLo
+ControlBox2,Input,D527.6,X6B6,HDIW.6(Tank13).Lev.Lo
+ControlBox2,Input,D527.7,X6B7,HDIW.6(Tank13).Lev.Hi
+ControlBox2,Input,D527.8,X6B8,HDIW.6(Tank13).Lev.Hi Hi
+ControlBox2,Input,D527.9,X6B9,
+ControlBox2,Input,D527.10,X6BA,HDIW.7(Tank14).Shut.CLS
+ControlBox2,Input,D527.11,X6BB,HDIW.7(Tank14).Shut.OPN
+ControlBox2,Input,D527.12,X6BC,HDIW.7(Tank14).Shut.OPN確認
+ControlBox2,Input,D527.13,X6BD,HDIW.7(Tank14).Motor Alarm
+ControlBox2,Input,D527.14,X6BE,HDIW.7(Tank14).Temp.Lo
+ControlBox2,Input,D527.15,X6BF,HDIW.7(Tank14).Temp.Hi
+ControlBox2,Input,D528.0,X6C0,HDIW.7(Tank14).SCR.Fuse
+ControlBox2,Input,D528.1,X6C1,HDIW.7(Tank14).Pump Overload
+ControlBox2,Input,D528.2,X6C2,HDIW7超溫保護
+ControlBox2,Input,D528.3,X6C3,HDIW.7(Tank14).上槽Lev.Hi
+ControlBox2,Input,D528.4,X6C4,HDIW.7(Tank14).Lev.LoLo
+ControlBox2,Input,D528.5,X6C5,HDIW.7(Tank14).Lev.Lo
+ControlBox2,Input,D528.6,X6C6,HDIW.7(Tank14).Lev.Hi
+ControlBox2,Input,D528.7,X6C7,HDIW.7(Tank14).Lev.Hi Hi
+ControlBox2,Input,D528.8,X6C8,
+ControlBox2,Input,D528.9,X6C9,HDIW.8(Tank15).Shut.CLS
+ControlBox2,Input,D528.10,X6C10,HDIW.8(Tank15).Shut.OPN
+ControlBox2,Input,D528.11,X6C11,HDIW.8(Tank15).Shut.OPN確認
+ControlBox2,Input,D528.12,X6C12,HDIW.8(Tank15).Motor Alarm
+ControlBox2,Input,D528.13,X6C13,HDIW.8(Tank15).Temp.Lo
+ControlBox2,Input,D528.14,X6C14,HDIW.8(Tank15).Temp.Hi
+ControlBox2,Input,D528.15,X6C15,HDIW.8(Tank15).SCR.Fuse
+ControlBox2,Input,D529.0,X6D0,HDIW.8(Tank15).Pump Overload
+ControlBox2,Input,D529.1,X6D1,HDIW8超溫保護
+ControlBox2,Input,D529.2,X6D2,HDIW.8(Tank15).上槽Lev.Hi
+ControlBox2,Input,D529.3,X6D3,HDIW.8(Tank15).Lev.LoLo
+ControlBox2,Input,D529.4,X6D4,HDIW.8(Tank15).Lev.Lo
+ControlBox2,Input,D529.5,X6D5,HDIW.8(Tank15).Lev.Hi
+ControlBox2,Input,D529.6,X6D6,HDIW.8(Tank15).Lev.Hi Hi
+ControlBox2,Input,D529.7,X6D7,
+ControlBox2,Input,D529.8,X6D8,(Inline).Temp.Lo
+ControlBox2,Input,D529.9,X6D9,(Inline).Temp.Hi
+ControlBox2,Input,D529.10,X6D10,(Inline).SCR.Fuse
+ControlBox2,Input,D529.11,X6D11,
+ControlBox2,Input,D529.12,X6D12,AKF(Tank16)Shut.CLS
+ControlBox2,Input,D529.13,X6D13,Mix pump overload
+ControlBox2,Input,D529.14,X6D14,HDI5 Buffer pump overload
+ControlBox2,Input,D529.15,X6D15,HDI6 Buffer pump overload
+ControlBox2,Input,D530.0,X6E0,AKF.(Tank16)Temp.Lo
+ControlBox2,Input,D530.1,X6E1,AKF.(Tank16)Temp.Hi
+ControlBox2,Input,D530.2,X6E2,AKF.(Tank16)SCR.Fuse
+ControlBox2,Input,D530.3,X6E3,HDI5 Buffer Tank Hi
+ControlBox2,Input,D530.4,X6E4,HDI6 Buffer Tank Hi
+ControlBox2,Input,D530.5,X6E5,AKF(Tank16).Pos. UP
+ControlBox2,Input,D530.6,X6E6,AKF(Tank16).Pos. Down
+ControlBox2,Input,D530.7,X6E7,Mix Tank Pump HiHi
+ControlBox2,Input,D530.8,X6E8,Mix Tank heater Hi
+ControlBox2,Input,D530.9,X6E9,Mix Tank Pump Hi
+ControlBox2,Input,D530.10,X6E10,Mix Tank pump Lo
+ControlBox2,Input,D530.11,X6E11,
+ControlBox2,Input,D530.12,X6E12,DRY.(Tank17)Temp.Lo
+ControlBox2,Input,D530.13,X6E13,DRY.(Tank17)Temp.Hi
+ControlBox2,Input,D530.14,X6E14,DRY(Tank17)SCR.Fuse
+ControlBox2,Input,D530.15,X6E15,DRY(Tank17)鼓風機 Overload
+ControlBox2,Input,D531.0,X6F0,DRY(Tank17)差壓計
+ControlBox2,Input,D531.1,X6F1,IPA-Buffer-LoLo
+ControlBox2,Input,D531.2,X6F2,IPA-Buffer-Lo
+ControlBox2,Input,D531.3,X6F3,IPA-Buffer-Hi
+ControlBox2,Input,D531.4,X6F4,
+ControlBox2,Input,D531.5,X6F5,IPA-Buffer-漏液
+ControlBox2,Input,D531.6,X6F6,
+ControlBox2,Input,D531.7,X6F7,
+ControlBox2,Input,D531.8,X6F8,
+ControlBox2,Input,D531.9,X6F9,(熱水廢液TANK) Lev.Lo
+ControlBox2,Input,D531.10,X6F10,(熱水廢液TANK)  Lev.Hi
+ControlBox2,Input,D531.11,X6F11,(熱水廢液TANK)  Lev.Hi Hi
+ControlBox2,Input,D531.12,X6F12,(熱水廢液TANK) Temp Hi
+ControlBox2,Input,D531.13,X6F13,(熱水廢液TANK)  pump Overload
+ControlBox2,Input,D531.14,X6F14,(熱水廢液TANK)  漏液Sensor#1
+ControlBox2,Input,D531.15,X6F15,(熱水廢液TANK)  漏液Sensor#2
+ControlBox2,Input,D532.0,X700,
+ControlBox2,Input,D532.1,X701,鹼排廢液TANK Lev.Lo
+ControlBox2,Input,D532.2,X702,鹼排廢液TANK Lev.Hi
+ControlBox2,Input,D532.3,X703,鹼排廢液TANK Lev.Hi Hi
+ControlBox2,Input,D532.4,X704,鹼排廢液TANK Temp Hi
+ControlBox2,Input,D532.5,X705,鹼排廢液TANK pump Overload
+ControlBox2,Input,D532.6,X706,鹼排廢液TANK 漏液Sensor#1
+ControlBox2,Input,D532.7,X707,鹼排廢液TANK 漏液Sensor#2
+ControlBox2,Input,D532.8,X708,
+ControlBox2,Input,D532.9,X709,酸排廢液TANK Lev.Lo
+ControlBox2,Input,D532.10,X710,酸排廢液TANK Lev.Hi
+ControlBox2,Input,D532.11,X711,酸排廢液TANK  Lev.Hi Hi
+ControlBox2,Input,D532.12,X712,Drain C Temp Hi
+ControlBox2,Input,D532.13,X713,酸排廢液TANK pump Overload
+ControlBox2,Input,D532.14,X714,酸排廢液TANK 漏液Sensor#1
+ControlBox2,Input,D532.15,X715,酸排廢液TANK 漏液Sensor#2
+ControlBox2,Input,D533.0,X710,
+ControlBox2,Input,D533.1,X711,
+ControlBox2,Input,D533.2,X712,
+ControlBox2,Input,D533.3,X713,
+ControlBox2,Input,D533.4,X714,
+ControlBox2,Input,D533.5,X715,
+ControlBox2,Input,D533.6,X716,
+ControlBox2,Input,D533.7,X717,
+ControlBox2,Input,D533.8,X718,RB(3) Tech Box(上)
+ControlBox2,Input,D533.9,X719,RB(3) Tech Box(下)
+ControlBox2,Input,D533.10,X71A,RB(3) Tech Box(左)
+ControlBox2,Input,D533.11,X71B,RB(3) Tech Box(右)
+ControlBox2,Input,D533.12,X71C,RB(3) Tech Box(速度切換)
+ControlBox2,Input,D533.13,X74A,RB(3) Tech Box(RB Hold)
+ControlBox2,Input,D533.14,X75A,RB(3) Tech Box(前RB)
+ControlBox2,Input,D533.15,X76A,RB(3) Tech Box(後RB)
+ControlBox2,Output,D564.0,Y6E0,HDI6 Pump val
+ControlBox2,Output,D564.1,Y6E1,後段日光燈(正面#1，正面#2)
+ControlBox2,Output,D564.2,Y6E2,後段日光燈(正面#3，正面#4)
+ControlBox2,Output,D564.3,Y6E3,後段日光燈(正面#5)
+ControlBox2,Output,D564.4,Y6E4,HDI5 Pump val
+ControlBox2,Output,D564.5,Y6E5,後段日光燈(背面#1)
+ControlBox2,Output,D564.6,Y6E6,後段日光燈(背面#2)
+ControlBox2,Output,D564.7,Y6E7,Mix pump out val
+ControlBox2,Output,D564.8,Y6E8,後段三色燈塔(紅)
+ControlBox2,Output,D564.9,Y6E9,後段三色燈塔(黃)
+ControlBox2,Output,D564.10,Y6EA,後段三色燈塔(綠)
+ControlBox2,Output,D564.11,Y6EB,後段三色燈塔(蜂鳴器)
+ControlBox2,Output,D564.12,Y6EC,Mix overflow val
+ControlBox2,Output,D564.13,Y6ED,
+ControlBox2,Output,D564.14,Y6EE,後段DIW總閥(電磁閥)
+ControlBox2,Output,D564.15,Y6EF,Mix DIW in val
+ControlBox2,Output,D565.0,Y6E0,廠務HF供酸Request
+ControlBox2,Output,D565.1,Y6E1,廠務HCL供酸Request
+ControlBox2,Output,D565.2,Y6E2,廠務KOH供酸Request
+ControlBox2,Output,D565.3,Y6E3,廠務IPA供酸Request
+ControlBox2,Output,D565.4,Y6E4,廠務H2O2供酸Request
+ControlBox2,Output,D565.5,Y6E5,廠務NH4OH供酸Request
+ControlBox2,Output,D565.6,Y6E6,Spare
+ControlBox2,Output,D565.7,Y6E7,Mix HDI in val
+ControlBox2,Output,D565.8,Y6E8,後段Robot2 Chucklock(電磁閥)
+ControlBox2,Output,D565.9,Y6E9,後段Robot2 Tower(紅燈/綠燈)
+ControlBox2,Output,D565.10,Y6EA,後段Robot2 Carrier Clean(電磁閥)_X_IPABuffer
+ControlBox2,Output,D565.11,Y6EB,後段Robot2 Clean-1(電磁閥)
+ControlBox2,Output,D565.12,Y6EC,後段Robot2 Clean-2(電磁閥)
+ControlBox2,Output,D565.13,Y6ED,後段Robot2 夾爪伺服煞車
+ControlBox2,Output,D565.14,Y6EE,
+ControlBox2,Output,D565.15,Y6EF,Spare
+ControlBox2,Output,D566.0,Y6E0,後段Robot3 Chucklock(電磁閥)
+ControlBox2,Output,D566.1,Y6E1,後段Robot3 Tower(紅燈/綠燈)
+ControlBox2,Output,D566.2,Y6E2,後段Robot3 Carrier Clean(電磁閥)
+ControlBox2,Output,D566.3,Y6E3,後段Robot3 Clean-1(電磁閥)
+ControlBox2,Output,D566.4,Y6E4,後段Robot3 Clean-2(電磁閥)
+ControlBox2,Output,D566.5,Y6E5,後段Robot3 夾爪伺服煞車
+ControlBox2,Output,D566.6,Y6E6,
+ControlBox2,Output,D566.7,Y6E7,ULD Shut電磁閥(開啟)
+ControlBox2,Output,D566.8,Y6E8,ULD Shut電磁閥(關閉)
+ControlBox2,Output,D566.9,Y6E9,
+ControlBox2,Output,D566.10,Y6EA,ULD 自動門電磁閥(開啟)
+ControlBox2,Output,D566.11,Y6EB,ULD 自動門電磁閥(關閉)
+ControlBox2,Output,D566.12,Y6EC,
+ControlBox2,Output,D566.13,Y6ED,ULD按鈕燈(ULD面板)
+ControlBox2,Output,D566.14,Y6EE,ULD警示燈(白色)
+ControlBox2,Output,D566.15,Y6EF,ULD警示燈(蜂鳴器)
+ControlBox2,Output,D567.0,Y6F0,ULD Stopper汽缸1(下降)
+ControlBox2,Output,D567.1,Y6F1,ULD Stopper汽缸1(上升)
+ControlBox2,Output,D567.2,Y6F2,ULD Stopper汽缸2(下降)
+ControlBox2,Output,D567.3,Y6F3,ULD Stopper汽缸2(上升)
+ControlBox2,Output,D567.4,Y6F4,ULD Stopper汽缸3(下降)
+ControlBox2,Output,D567.5,Y6F5,ULD Stopper汽缸3(上升)
+ControlBox2,Output,D567.6,Y6F6,ULD Stopper汽缸4(下降)
+ControlBox2,Output,D567.7,Y6F7,ULD Stopper汽缸4(上升)
+ControlBox2,Output,D567.8,Y6F8,高濃度鹼排
+ControlBox2,Output,D567.9,Y6F9,低濃度鹼排
+ControlBox2,Output,D567.10,Y6FA,Spare
+ControlBox2,Output,D567.11,Y6FB,傳動1(正轉)
+ControlBox2,Output,D567.12,Y6FC,傳動1(反轉)
+ControlBox2,Output,D567.13,Y6FD,傳動1 INV ERR.RST
+ControlBox2,Output,D567.14,Y6FE,
+ControlBox2,Output,D567.15,Y6FF,
+ControlBox2,Output,D568.0,Y700,
+ControlBox2,Output,D568.1,Y701,
+ControlBox2,Output,D568.2,Y702,HDIW.3(Tank9) Shut Motor (CW)
+ControlBox2,Output,D568.3,Y703,HDIW.3(Tank9) Shut Motor (CCW)
+ControlBox2,Output,D568.4,Y704,HDIW.3(Tank9) Shut Motor(RST)
+ControlBox2,Output,D568.5,Y705,HDIW.3(Tank9).Q_Drain電磁閥
+ControlBox2,Output,D568.6,Y706,HDIW.3(Tank9).W_Drain電磁閥
+ControlBox2,Output,D568.7,Y707,HDIW.3(Tank9).DIW 捕水閥
+ControlBox2,Output,D568.8,Y708,HDIW.3(Tank9).DIW 手動捕水閥
+ControlBox2,Output,D568.9,Y709,HDIW.3(Tank9).加熱(啟動/停止)
+ControlBox2,Output,D568.10,Y70A,HDIW.3(Tank9).加熱器分路跳脫開關
+ControlBox2,Output,D568.11,Y70B,HDIW.4(Tank10) Shut Motor (CW)
+ControlBox2,Output,D568.12,Y70C,HDIW.4(Tank10) Shut Motor (CCW)
+ControlBox2,Output,D568.13,Y70D,HDIW.4(Tank10) Shut Motor(RST)
+ControlBox2,Output,D568.14,Y70E,HDIW.4(Tank10).Q_Drain電磁閥
+ControlBox2,Output,D568.15,Y70F,HDIW.4(Tank10).W_Drain電磁閥
+ControlBox2,Output,D569.0,Y710,HDIW.4(Tank10).DIW 捕水閥
+ControlBox2,Output,D569.1,Y711,HDIW.4(Tank10).DIW 手動捕水閥
+ControlBox2,Output,D569.2,Y712,HDIW.4(Tank10).加熱(啟動/停止)
+ControlBox2,Output,D569.3,Y713,HDIW.4(Tank10).加熱器分路跳脫開關
+ControlBox2,Output,D569.4,Y714,HF(Tank11) Shut Motor(CW)
+ControlBox2,Output,D569.5,Y715,HF(Tank11) Shut Motor(CCW)
+ControlBox2,Output,D569.6,Y716,HF(Tank11) Shut Motor(RST)
+ControlBox2,Output,D569.7,Y717,HF(Tank11).Q_Drain電磁閥
+ControlBox2,Output,D569.8,Y718,HF(Tank11).W_Drain電磁閥
+ControlBox2,Output,D569.9,Y719,HF(Tank11).HF配槽閥(電磁閥)
+ControlBox2,Output,D569.10,Y71A,HF(Tank11).DIW配槽閥(電磁閥)
+ControlBox2,Output,D569.11,Y71B,Spare
+ControlBox2,Output,D569.12,Y71C,HF(Tank11).Pump運轉
+ControlBox2,Output,D569.13,Y71D,Spare
+ControlBox2,Output,D569.14,Y71E,HF Dosing(In).Valve(電磁閥)
+ControlBox2,Output,D569.15,Y71F,HF Dosing(Out).Valve(電磁閥)
+ControlBox2,Output,D570.0,Y720,HCL Dosing(In).Valve(電磁閥)
+ControlBox2,Output,D570.1,Y721,HCL Dosing(Out).Valve(電磁閥)
+ControlBox2,Output,D570.2,Y722,HF(Tank11)DIW Dosing(In).Valve(電磁閥)
+ControlBox2,Output,D570.3,Y723,HF(Tank11)DIW Dosing(Out).Valve(電磁閥)
+ControlBox2,Output,D570.4,Y724,inline Pump
+ControlBox2,Output,D570.5,Y725,inline DIW in電閥
+ControlBox2,Output,D570.6,Y726,HDIW.5(Tank12) Shut Motor(RST)
+ControlBox2,Output,D570.7,Y727,HDIW.5(Tank12).Q_Drain電磁閥
+ControlBox2,Output,D570.8,Y728,HDIW.5(Tank12).W_Drain電磁閥
+ControlBox2,Output,D570.9,Y729,HDIW.5(Tank12).DIW 捕水閥
+ControlBox2,Output,D570.10,Y72A,HDIW.5(Tank12).DIW 手動捕水閥
+ControlBox2,Output,D570.11,Y72B,HDIW.5(Tank12).加熱(啟動/停止)
+ControlBox2,Output,D570.12,Y72C,HDIW.5(Tank12).加熱器分路跳脫開關
+ControlBox2,Output,D570.13,Y72D,Mix Pump
+ControlBox2,Output,D570.14,Y72E,HID5 buffer Pump
+ControlBox2,Output,D570.15,Y72F,HID6 buffer Pump
+ControlBox2,Output,D571.0,Y730,HDIW.6(Tank13).Q_Drain電磁閥
+ControlBox2,Output,D571.1,Y731,HDIW.6(Tank13).W_Drain電磁閥
+ControlBox2,Output,D571.2,Y732,HDIW.6(Tank13).DIW 捕水閥
+ControlBox2,Output,D571.3,Y733,HDIW.6(Tank13).DIW 手動捕水閥
+ControlBox2,Output,D571.4,Y734,HDIW.6(Tank13).加熱(啟動/停止)
+ControlBox2,Output,D571.5,Y735,HDIW.6(Tank13).加熱器分路跳脫開關
+ControlBox2,Output,D571.6,Y736,HDIW.7(Tank14) Shut Motor(CW)
+ControlBox2,Output,D571.7,Y737,HDIW.7(Tank14) Shut Motor(CCW)
+ControlBox2,Output,D571.8,Y738,HDIW.7(Tank14) Shut Motor(RST)
+ControlBox2,Output,D571.9,Y739,HDIW.7(Tank14).Q_Drain電磁閥
+ControlBox2,Output,D571.10,Y73A,HDIW.7(Tank14).W_Drain電磁閥
+ControlBox2,Output,D571.11,Y73B,HDIW.7(Tank14).DIW 捕水閥
+ControlBox2,Output,D571.12,Y73C,HDIW.7(Tank14).DIW 手動捕水閥
+ControlBox2,Output,D571.13,Y73D,HDIW.7(Tank14).加熱(啟動/停止)
+ControlBox2,Output,D571.14,Y73E,HDIW.7(Tank14).加熱器分路跳脫開關
+ControlBox2,Output,D571.15,Y73F,HDIW.7(Tank14).Pump(正轉)
+ControlBox2,Output,D572.0,Y740,HDIW.7(Tank14).Pump(反轉)
+ControlBox2,Output,D572.1,Y741,HDIW.7(Tank14).INV ERR.RST
+ControlBox2,Output,D572.2,Y742,HDIW.7(Tank14).運轉速度點位1
+ControlBox2,Output,D572.3,Y743,HDIW.7(Tank14).運轉速度點位2
+ControlBox2,Output,D572.4,Y744,HDIW.7(Tank14).運轉速度點位3
+ControlBox2,Output,D572.5,Y745,HDIW.8(Tank15) Shut Motor (CW)
+ControlBox2,Output,D572.6,Y746,HDIW.8(Tank15) Shut Motor (CCW)
+ControlBox2,Output,D572.7,Y747,HDIW.8(Tank15) Shut Motor(RST)
+ControlBox2,Output,D572.8,Y748,HDIW.8(Tank15).Q_Drain電磁閥(NG)
+ControlBox2,Output,D572.9,Y749,HDIW.8(Tank15).W_Drain電磁閥
+ControlBox2,Output,D572.10,Y74A,HDIW.8(Tank15).DIW 捕水閥
+ControlBox2,Output,D572.11,Y74B,HDIW.8(Tank15).Q_Drain電磁閥
+ControlBox2,Output,D572.12,Y74C,HDIW.8(Tank15).加熱(啟動/停止)
+ControlBox2,Output,D572.13,Y74D,HDIW.8(Tank15).加熱器分路跳脫開關
+ControlBox2,Output,D572.14,Y74E,HDIW.7~8(Inline)加熱(啟動/停止)
+ControlBox2,Output,D572.15,Y74F,HDIW.7~8(Inline)加熱器分路跳脫開關
+ControlBox2,Output,D573.0,Y750,
+ControlBox2,Output,D573.1,Y751,HDIW.8(Tank15).Pump(正轉)
+ControlBox2,Output,D573.2,Y752,HDIW.8(Tank15).Pump(反轉)
+ControlBox2,Output,D573.3,Y753,HDIW.8(Tank15).INV ERR.RST
+ControlBox2,Output,D573.4,Y754,HDIW.8(Tank15).運轉速度點位1
+ControlBox2,Output,D573.5,Y755,HDIW.8(Tank15).運轉速度點位2
+ControlBox2,Output,D573.6,Y756,HDIW.8(Tank15).運轉速度點位3
+ControlBox2,Output,D573.7,Y757,
+ControlBox2,Output,D573.8,Y758,AKF(Tank16)加熱(啟動/停止)
+ControlBox2,Output,D573.9,Y759,AKF(Tank16)加熱器分路跳脫開關
+ControlBox2,Output,D573.10,Y75A,AKF(Tank16)煞車
+ControlBox2,Output,D573.11,Y75B,AKF(Tank16)CDA In(AC220V電閥)
+ControlBox2,Output,D573.12,Y75C,HAIR1(Tank17) Shut Motor(CW)
+ControlBox2,Output,D573.13,Y75D,HAIR1(Tank17) Shut Motor(CCW)
+ControlBox2,Output,D573.14,Y75E,HAIR1(Tank17) Shut Motor(INV)
+ControlBox2,Output,D573.15,Y75F,DRY(Tank17)加熱(啟動/停止)
+ControlBox2,Output,D574.0,Y740,DRY(Tank17)加熱器分路跳脫開關
+ControlBox2,Output,D574.1,Y741,DRY(Tank17)鼓風機(正轉)
+ControlBox2,Output,D574.2,Y742,DRY(Tank17)鼓風機(反轉)
+ControlBox2,Output,D574.3,Y743,DRY(Tank17)INV ERR.RST
+ControlBox2,Output,D574.4,Y744,DRY(Tank17)運轉速度點位1
+ControlBox2,Output,D574.5,Y745,DRY(Tank17)運轉速度點位2
+ControlBox2,Output,D574.6,Y746,DRY(Tank17)運轉速度點位3
+ControlBox2,Output,D574.7,Y747,
+ControlBox2,Output,D574.8,Y748,inline heater DIW(電磁閥)
+ControlBox2,Output,D574.9,Y749,DrainA Cooling
+ControlBox2,Output,D574.10,Y74A,廢水排 Pump
+ControlBox2,Output,D574.11,Y74B,
+ControlBox2,Output,D574.12,Y74C,鹼排 DIW補水(電磁閥)
+ControlBox2,Output,D574.13,Y74D,DrainB Cooling
+ControlBox2,Output,D574.14,Y74E,鹼排  Pump
+ControlBox2,Output,D574.15,Y74F,
+ControlBox2,Output,D575.0,Y750,DrainC DIW補水(電磁閥)
+ControlBox2,Output,D575.1,Y751,DrainC Cooling
+ControlBox2,Output,D575.2,Y752,酸排 Pump
+ControlBox2,Output,D575.3,Y753,Spare
+ControlBox2,Output,D575.4,Y754,Bubble-Dision(Tank10) Valve(電磁閥)
+ControlBox2,Output,D575.5,Y755,Bubble(HDIW3~6 Tank).Bubble(電磁閥)
+ControlBox2,Output,D575.6,Y756,Bubble(HDIW7 Tank).Bubble(電磁閥)
+ControlBox2,Output,D575.7,Y757,Bubble(HDIW8 Tank).Bubble(電磁閥)
+ControlBox2,Output,D575.8,Y758,RB(3)  Tech Box(上燈)
+ControlBox2,Output,D575.9,Y759,RB(3)  Tech Box(下燈)
+ControlBox2,Output,D575.10,Y75A,RB(3)  Tech Box(左燈)
+ControlBox2,Output,D575.11,Y75B,RB(3)  Tech Box(右燈)
+ControlBox2,Output,D575.12,Y75C,RB(3)  Tech Box(速度切換燈)
+ControlBox2,Output,D575.13,Y75D,RB(3)  Tech Box(RB Hold燈)
+ControlBox2,Output,D575.14,Y75E,Spare
+ControlBox2,Output,D575.15,Y75F,Spare
+Handshake,PC>PLC,D900.0,M2000,WDT  (Watch Dog Timer)
+Handshake,PC>PLC,D900.1,M2001,ALM REQUEST
+Handshake,PC>PLC,D900.2,M2002,AUTO REQUEST
+Handshake,PC>PLC,D900.3,M2003,MANU REQUEST
+Handshake,PC>PLC,D900.4,M2004,EMG ROBOT
+Handshake,PC>PLC,D900.5,M2005,EMG ALL
+Handshake,PC>PLC,D900.6,M2006,繼續生產
+Handshake,PC>PLC,D900.7,M2007,N/A
+Handshake,PC>PLC,D900.8,M2008,LD REQUEST
+Handshake,PC>PLC,D900.9,M2009,
+Handshake,PC>PLC,D900.10,M2010,AK  INRUN
+Handshake,PC>PLC,D900.11,M2011,
+Handshake,PC>PLC,D900.12,M2012,
+Handshake,PC>PLC,D900.13,M2013,HOTAIR PERMIT
+Handshake,PC>PLC,D900.14,M2014,N/A
+Handshake,PC>PLC,D900.15,M2015,Alarm Buzzer OFF命令
+Handshake,PC>PLC,D901.0,M2016,
+Handshake,PC>PLC,D901.1,M2017,
+Handshake,PC>PLC,D901.2,M2018,
+Handshake,PC>PLC,D901.3,M2019,N/A
+Handshake,PC>PLC,D901.4,M2020,N/A
+Handshake,PC>PLC,D901.5,M2021,N/A
+Handshake,PC>PLC,D901.6,M2022,N/A
+Handshake,PC>PLC,D901.7,M2023,N/A
+Handshake,PC>PLC,D901.8,M2024,N/A
+Handshake,PC>PLC,D901.9,M2025,PC命令-Rob Car LOCK Check Disable
+Handshake,PC>PLC,D901.10,M2026,PC命令-Door inter LOCK Check Disable
+Handshake,PC>PLC,D901.11,M2027,PC命令-Exhaust Check  Disable
+Handshake,PC>PLC,D901.12,M2028,繼續生產
+Handshake,PC>PLC,D901.13,M2029,BZ  CMD
+Handshake,PC>PLC,D901.14,M2030,N/A
+Handshake,PC>PLC,D901.15,M2031,RFID_READ_OK
+Handshake,PC>PLC,D902.0,M2032,RB1 位置命令
+Handshake,PC>PLC,D902.1,M2033,RB1 2 3 4 命令取消
+Handshake,PC>PLC,D902.2,M2034,RB1 執行原點
+Handshake,PC>PLC,D902.3,M2035,RB1 執行取料
+Handshake,PC>PLC,D902.4,M2036,RB1 執行置料
+Handshake,PC>PLC,D902.5,M2037,RB1 執行移載
+Handshake,PC>PLC,D902.6,M2038,RB1 執行吹乾
+Handshake,PC>PLC,D902.7,M2039,
+Handshake,PC>PLC,D902.8,M2040,RB2 位置命令
+Handshake,PC>PLC,D902.9,M2041,
+Handshake,PC>PLC,D902.10,M2042,RB2 執行原點
+Handshake,PC>PLC,D902.11,M2043,RB2 執行取料
+Handshake,PC>PLC,D902.12,M2044,RB2 執行置料
+Handshake,PC>PLC,D902.13,M2045,RB2 執行移載
+Handshake,PC>PLC,D902.14,M2046,
+Handshake,PC>PLC,D902.15,M2047,RB2 執行浸泡
+Handshake,PC>PLC,D903.0,M2048,RB3 位置命令
+Handshake,PC>PLC,D903.1,M2049,
+Handshake,PC>PLC,D903.2,M2050,RB3 執行原點
+Handshake,PC>PLC,D903.3,M2051,RB3 執行取料
+Handshake,PC>PLC,D903.4,M2052,RB3 執行置料
+Handshake,PC>PLC,D903.5,M2053,RB3 執行移載
+Handshake,PC>PLC,D903.6,M2054,RB3執行吹乾
+Handshake,PC>PLC,D903.7,M2055,RB3 執行浸泡
+Handshake,PC>PLC,D903.8,M2056,
+Handshake,PC>PLC,D903.9,M2057,
+Handshake,PC>PLC,D903.10,M2058,
+Handshake,PC>PLC,D903.11,M2059,
+Handshake,PC>PLC,D903.12,M2060,
+Handshake,PC>PLC,D903.13,M2061,
+Handshake,PC>PLC,D903.14,M2062,
+Handshake,PC>PLC,D903.15,M2063,
+Handshake,PC>PLC,D904.0,M2064,LD 上蓋OPN
+Handshake,PC>PLC,D904.1,M2065,SC1 上蓋OPN
+Handshake,PC>PLC,D904.2,M2066,TEX12上蓋OPN
+Handshake,PC>PLC,D904.3,M2067,TEX34上蓋OPN
+Handshake,PC>PLC,D904.4,M2068,TEX56上蓋OPN
+Handshake,PC>PLC,D904.5,M2069,TEX78上蓋OPN
+Handshake,PC>PLC,D904.6,M2070,DISION上蓋OPN
+Handshake,PC>PLC,D904.7,M2071,HDIW7上蓋OPN
+Handshake,PC>PLC,D904.8,M2072,HDIW8上蓋OPN
+Handshake,PC>PLC,D904.9,M2073,DRY1上蓋OPN
+Handshake,PC>PLC,D904.10,M2074,
+Handshake,PC>PLC,D904.11,M2075,
+Handshake,PC>PLC,D904.12,M2076,
+Handshake,PC>PLC,D904.13,M2077,
+Handshake,PC>PLC,D904.14,M2078,
+Handshake,PC>PLC,D904.15,M2079,
+Handshake,PC>PLC,D905.0,M2080,LD 上蓋CLS
+Handshake,PC>PLC,D905.1,M2081,SC1 上蓋CLS
+Handshake,PC>PLC,D905.2,M2082,TEX12上蓋CLS
+Handshake,PC>PLC,D905.3,M2083,TEX34上蓋CLS
+Handshake,PC>PLC,D905.4,M2084,TEX56上蓋CLS
+Handshake,PC>PLC,D905.5,M2085,TEX78上蓋CLS
+Handshake,PC>PLC,D905.6,M2086,DISION上蓋CLS
+Handshake,PC>PLC,D905.7,M2087,HDIW7上蓋CLS
+Handshake,PC>PLC,D905.8,M2088,HDIW8上蓋CLS
+Handshake,PC>PLC,D905.9,M2089,
+Handshake,PC>PLC,D905.10,M2090,
+Handshake,PC>PLC,D905.11,M2091,
+Handshake,PC>PLC,D905.12,M2092,
+Handshake,PC>PLC,D905.13,M2093,
+Handshake,PC>PLC,D905.14,M2094,
+Handshake,PC>PLC,D905.15,M2095,
+Handshake,PC>PLC,D906.0,M2096,Preheat.1 循環泵
+Handshake,PC>PLC,D906.1,M2097,Preheat.2 循環泵
+Handshake,PC>PLC,D906.2,M2098,SC1 循環泵
+Handshake,PC>PLC,D906.3,M2099,TEXA(內循環)循環泵
+Handshake,PC>PLC,D906.4,M2100,TEX12  循環泵
+Handshake,PC>PLC,D906.5,M2101,TEX34  循環泵
+Handshake,PC>PLC,D906.6,M2102,TEXB(內循環)循環泵
+Handshake,PC>PLC,D906.7,M2103,TEX56循環泵
+Handshake,PC>PLC,D906.8,M2104,TEX78循環泵
+Handshake,PC>PLC,D906.9,M2105,HDIW7循環泵
+Handshake,PC>PLC,D906.10,M2106,HDIW8循環泵
+Handshake,PC>PLC,D906.11,M2107,AKF  鼓風機
+Handshake,PC>PLC,D906.12,M2108,DRY1鼓風機
+Handshake,PC>PLC,D906.13,M2109,DRY2鼓風機
+Handshake,PC>PLC,D906.14,M2110,DRY3鼓風機
+Handshake,PC>PLC,D906.15,M2111,DRY4鼓風機
+Handshake,PC>PLC,D907.0,M2112,SC1超音波 
+Handshake,PC>PLC,D907.1,M2113,Inline heater循環泵
+Handshake,PC>PLC,D907.2,M2114,
+Handshake,PC>PLC,D907.3,M2115,
+Handshake,PC>PLC,D907.4,M2116,
+Handshake,PC>PLC,D907.5,M2117,
+Handshake,PC>PLC,D907.6,M2118,
+Handshake,PC>PLC,D907.7,M2119,
+Handshake,PC>PLC,D907.8,M2120,
+Handshake,PC>PLC,D907.9,M2121,
+Handshake,PC>PLC,D907.10,M2122,
+Handshake,PC>PLC,D907.11,M2123,
+Handshake,PC>PLC,D907.12,M2124,
+Handshake,PC>PLC,D907.13,M2125,
+Handshake,PC>PLC,D907.14,M2126,
+Handshake,PC>PLC,D907.15,M2127,
+Handshake,PC>PLC,D908.0,M2128,Preheat.1 加熱
+Handshake,PC>PLC,D908.1,M2129,Preheat.2 加熱
+Handshake,PC>PLC,D908.2,M2130,SC1 加熱
+Handshake,PC>PLC,D908.3,M2131,HDIW1加熱
+Handshake,PC>PLC,D908.4,M2132,TEXA加熱
+Handshake,PC>PLC,D908.5,M2133,HDIW2加熱
+Handshake,PC>PLC,D908.6,M2134,TEXB加熱
+Handshake,PC>PLC,D908.7,M2135,HDIW3加熱
+Handshake,PC>PLC,D908.8,M2136,HDIW4加熱
+Handshake,PC>PLC,D908.9,M2137,HDIW5加熱
+Handshake,PC>PLC,D908.10,M2138,HDIW6加熱
+Handshake,PC>PLC,D908.11,M2139,HDIW7加熱
+Handshake,PC>PLC,D908.12,M2140,HDIW8加熱
+Handshake,PC>PLC,D908.13,M2141,INLINE加熱
+Handshake,PC>PLC,D908.14,M2142,AKF 加熱
+Handshake,PC>PLC,D908.15,M2143,DRY1加熱
+Handshake,PC>PLC,D909.0,M2144,DRY2加熱
+Handshake,PC>PLC,D909.1,M2145,DRY3加熱
+Handshake,PC>PLC,D909.2,M2146,DRY4加熱
+Handshake,PC>PLC,D909.3,M2147,
+Handshake,PC>PLC,D909.4,M2148,
+Handshake,PC>PLC,D909.5,M2149,
+Handshake,PC>PLC,D909.6,M2150,
+Handshake,PC>PLC,D909.7,M2151,
+Handshake,PC>PLC,D909.8,M2152,
+Handshake,PC>PLC,D909.9,M2153,
+Handshake,PC>PLC,D909.10,M2154,
+Handshake,PC>PLC,D909.11,M2155,
+Handshake,PC>PLC,D909.12,M2156,
+Handshake,PC>PLC,D909.13,M2157,
+Handshake,PC>PLC,D909.14,M2158,
+Handshake,PC>PLC,D909.15,M2159,
+Handshake,PC>PLC,D910.0,M2160,SC1 Drain
+Handshake,PC>PLC,D910.1,M2161,TEXA  Drain
+Handshake,PC>PLC,D910.2,M2162,TEXB Drain
+Handshake,PC>PLC,D910.3,M2163,DISION Drain
+Handshake,PC>PLC,D910.4,M2164,HDIW1 Drain
+Handshake,PC>PLC,D910.5,M2165,HDIW2 Drain
+Handshake,PC>PLC,D910.6,M2166,HDIW3 Drain
+Handshake,PC>PLC,D910.7,M2167,HDIW4 Drain
+Handshake,PC>PLC,D910.8,M2168,HDIW5 Drain
+Handshake,PC>PLC,D910.9,M2169,HDIW6 Drain
+Handshake,PC>PLC,D910.10,M2170,HDIW7 Drain
+Handshake,PC>PLC,D910.11,M2171,HDIW8 Drain
+Handshake,PC>PLC,D910.12,M2172,
+Handshake,PC>PLC,D910.13,M2173,
+Handshake,PC>PLC,D910.14,M2174,
+Handshake,PC>PLC,D910.15,M2175,
+Handshake,PC>PLC,D911.0,M2176,HDIW1 DIW IN Check
+Handshake,PC>PLC,D911.1,M2177,HDIW2 DIW IN Check
+Handshake,PC>PLC,D911.2,M2178,HDIW3 DIW IN Check
+Handshake,PC>PLC,D911.3,M2179,HDIW4 DIW IN Check
+Handshake,PC>PLC,D911.4,M2180,HDIW5 DIW IN Check
+Handshake,PC>PLC,D911.5,M2181,HDIW6 DIW IN Check
+Handshake,PC>PLC,D911.6,M2182,HDIW7 DIW IN Check
+Handshake,PC>PLC,D911.7,M2183,HDIW8 DIW IN Check
+Handshake,PC>PLC,D911.8,M2184,
+Handshake,PC>PLC,D911.9,M2185,
+Handshake,PC>PLC,D911.10,M2186,
+Handshake,PC>PLC,D911.11,M2187,
+Handshake,PC>PLC,D911.12,M2188,
+Handshake,PC>PLC,D911.13,M2189,
+Handshake,PC>PLC,D911.14,M2190,
+Handshake,PC>PLC,D911.15,M2191,IPA切換至廠務In
+Handshake,PC>PLC,D912.0,M2192,SC1洗槽
+Handshake,PC>PLC,D912.1,M2193,TEXA洗槽
+Handshake,PC>PLC,D912.2,M2194,TEXB 洗槽
+Handshake,PC>PLC,D912.3,M2195,DISION洗槽
+Handshake,PC>PLC,D912.4,M2196,
+Handshake,PC>PLC,D912.5,M2197,
+Handshake,PC>PLC,D912.6,M2198,
+Handshake,PC>PLC,D912.7,M2199,
+Handshake,PC>PLC,D912.8,M2200,自動溫度停止
+Handshake,PC>PLC,D912.9,M2201,SC停止
+Handshake,PC>PLC,D912.10,M2202,TEX-A停止
+Handshake,PC>PLC,D912.11,M2203,TEX-B停止
+Handshake,PC>PLC,D912.12,M2204,HF停止
+Handshake,PC>PLC,D912.13,M2205,
+Handshake,PC>PLC,D912.14,M2206,
+Handshake,PC>PLC,D912.15,M2207,
+Handshake,PC>PLC,D913.0,M2208
+Handshake,PC>PLC,D913.1,M2209
+Handshake,PC>PLC,D913.2,M2210
+Handshake,PC>PLC,D913.3,M2211
+Handshake,PC>PLC,D913.4,M2212
+Handshake,PC>PLC,D913.5,M2213
+Handshake,PC>PLC,D913.6,M2214
+Handshake,PC>PLC,D913.7,M2215
+Handshake,PC>PLC,D913.8,M2216
+Handshake,PC>PLC,D913.9,M2217
+Handshake,PC>PLC,D913.10,M2218
+Handshake,PC>PLC,D913.11,M2219
+Handshake,PC>PLC,D913.12,M2220
+Handshake,PC>PLC,D913.13,M2221
+Handshake,PC>PLC,D913.14,M2222
+Handshake,PC>PLC,D913.15,M2223
+Handshake,PC>PLC,D914.0,M2224,SC1配槽(pc)
+Handshake,PC>PLC,D914.1,M2225,TEXA配槽(pc)
+Handshake,PC>PLC,D914.2,M2226,TEXB 配槽(pc)
+Handshake,PC>PLC,D914.3,M2227,HF配槽(pc)
+Handshake,PC>PLC,D914.4,M2228,TEXA Partial Drain配槽(pc)
+Handshake,PC>PLC,D914.5,M2229,TEXB Partial Drain配槽(pc)
+Handshake,PC>PLC,D914.6,M2230,SC1 手動添加(pc)
+Handshake,PC>PLC,D914.7,M2231,TEXA手動添加(pc)
+Handshake,PC>PLC,D914.8,M2232,TEXB 手動添加(pc)
+Handshake,PC>PLC,D914.9,M2233,DISON手動添加(pc)
+Handshake,PC>PLC,D914.10,M2234,SC Partial Drain配槽(pc)
+Handshake,PC>PLC,D914.11,M2235,
+Handshake,PC>PLC,D914.12,M2236,
+Handshake,PC>PLC,D914.13,M2237,
+Handshake,PC>PLC,D914.14,M2238,
+Handshake,PC>PLC,D914.15,M2239,HDIW5換酸
+Handshake,PC>PLC,D915.0,M2240
+Handshake,PC>PLC,D915.1,M2241
+Handshake,PC>PLC,D915.2,M2242
+Handshake,PC>PLC,D915.3,M2243
+Handshake,PC>PLC,D915.4,M2244
+Handshake,PC>PLC,D915.5,M2245
+Handshake,PC>PLC,D915.6,M2246
+Handshake,PC>PLC,D915.7,M2247
+Handshake,PC>PLC,D915.8,M2248
+Handshake,PC>PLC,D915.9,M2249
+Handshake,PC>PLC,D915.10,M2250
+Handshake,PC>PLC,D915.11,M2251
+Handshake,PC>PLC,D915.12,M2252
+Handshake,PC>PLC,D915.13,M2253
+Handshake,PC>PLC,D915.14,M2254
+Handshake,PC>PLC,D915.15,M2255
+Handshake,PC>PLC,D916.0,M2256,SC1:加藥H2O2 Dosing
+Handshake,PC>PLC,D916.1,M2257,SC1:加藥KOH Dosing
+Handshake,PC>PLC,D916.2,M2258,SC1:加藥DIW Dosing
+Handshake,PC>PLC,D916.3,M2259,TEXA:加藥IPA Dosing
+Handshake,PC>PLC,D916.4,M2260,TEXA加藥KOH Dosing
+Handshake,PC>PLC,D916.5,M2261,TEXA:加DI Dosing
+Handshake,PC>PLC,D916.6,M2262,TEXB加藥IPA Dosing
+Handshake,PC>PLC,D916.7,M2263,TEXB加藥KOH Dosing
+Handshake,PC>PLC,D916.8,M2264,TEXB加DI Dosing
+Handshake,PC>PLC,D916.9,M2265,DISION:加藥HCL Dosing
+Handshake,PC>PLC,D916.10,M2266,DISION:加藥HF Dosing
+Handshake,PC>PLC,D916.11,M2267,DISION:加藥DIW Dosing
+Handshake,PC>PLC,D916.12,M2268,TEXA 添加劑DOSING
+Handshake,PC>PLC,D916.13,M2269,TEXB 添加劑DOSING
+Handshake,PC>PLC,D916.14,M2270,
+Handshake,PC>PLC,D916.15,M2271,
+Handshake,PC>PLC,D917.0,M2272
+Handshake,PC>PLC,D917.1,M2273
+Handshake,PC>PLC,D917.2,M2274
+Handshake,PC>PLC,D917.3,M2275
+Handshake,PC>PLC,D917.4,M2276
+Handshake,PC>PLC,D917.5,M2277
+Handshake,PC>PLC,D917.6,M2278
+Handshake,PC>PLC,D917.7,M2279
+Handshake,PC>PLC,D917.8,M2280
+Handshake,PC>PLC,D917.9,M2281
+Handshake,PC>PLC,D917.10,M2282
+Handshake,PC>PLC,D917.11,M2283
+Handshake,PC>PLC,D917.12,M2284
+Handshake,PC>PLC,D917.13,M2285
+Handshake,PC>PLC,D917.14,M2286
+Handshake,PC>PLC,D917.15,M2287
+Handshake,PC>PLC,D918.0,M2288,RB1(X)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D918.1,M2289,RB1(X)移載伺服JOG+(手動)
+Handshake,PC>PLC,D918.2,M2290,RB1(X)移載伺服JOG-(手動)
+Handshake,PC>PLC,D918.3,M2291,RB1(Z)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D918.4,M2292,RB1(Z)昇降伺服JOG+(手動)
+Handshake,PC>PLC,D918.5,M2293,RB1(Z)昇降伺服JOG-(手動)
+Handshake,PC>PLC,D918.6,M2294,RB2(X)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D918.7,M2295,RB2(X)移載伺服JOG+(手動)
+Handshake,PC>PLC,D918.8,M2296,RB2(X)移載伺服JOG-(手動)
+Handshake,PC>PLC,D918.9,M2297,RB2(Z)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D918.10,M2298,RB2(Z)昇降伺服JOG+(手動)
+Handshake,PC>PLC,D918.11,M2299,RB2 (Z)昇降伺服JOG-(手動)
+Handshake,PC>PLC,D918.12,M2300,
+Handshake,PC>PLC,D918.13,M2301,
+Handshake,PC>PLC,D918.14,M2302,
+Handshake,PC>PLC,D918.15,M2303,
+Handshake,PC>PLC,D919.0,M2304,RB3(X)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D919.1,M2305,RB3(X)移載伺服JOG+(手動)
+Handshake,PC>PLC,D919.2,M2306,RB3(X)移載伺服JOG-(手動)
+Handshake,PC>PLC,D919.3,M2307,RB3(Z)移載伺服JOG高/低速度(手動)
+Handshake,PC>PLC,D919.4,M2308,RB3(Z)昇降伺服JOG+(手動)
+Handshake,PC>PLC,D919.5,M2309,RB3(Z)昇降伺服JOG-(手動)
+Handshake,PC>PLC,D919.6,M2310,
+Handshake,PC>PLC,D919.7,M2311,
+Handshake,PC>PLC,D919.8,M2312,
+Handshake,PC>PLC,D919.9,M2313,
+Handshake,PC>PLC,D919.10,M2314,
+Handshake,PC>PLC,D919.11,M2315,
+Handshake,PC>PLC,D919.12,M2316,
+Handshake,PC>PLC,D919.13,M2317,
+Handshake,PC>PLC,D919.14,M2318,
+Handshake,PC>PLC,D919.15,M2319,帳料索引
+Handshake,PC>PLC,D920.0,M2320,(Tank1) 晶舟帳料
+Handshake,PC>PLC,D920.1,M2321,(Tank2) 晶舟帳料
+Handshake,PC>PLC,D920.2,M2322,(Tank3) 晶舟帳料
+Handshake,PC>PLC,D920.3,M2323,(Tank4) 晶舟帳料
+Handshake,PC>PLC,D920.4,M2324,(Tank5) 晶舟帳料
+Handshake,PC>PLC,D920.5,M2325,(Tank6) 晶舟帳料
+Handshake,PC>PLC,D920.6,M2326,(Tank7) 晶舟帳料
+Handshake,PC>PLC,D920.7,M2327,(Tank8) 晶舟帳料
+Handshake,PC>PLC,D920.8,M2328,(Tank9) 晶舟帳料
+Handshake,PC>PLC,D920.9,M2329,(Tank10) 晶舟帳料
+Handshake,PC>PLC,D920.10,M2330,(Tank11) 晶舟帳料
+Handshake,PC>PLC,D920.11,M2331,(Tank12) 晶舟帳料
+Handshake,PC>PLC,D920.12,M2332,(Tank13) 晶舟帳料
+Handshake,PC>PLC,D920.13,M2333,(Tank14) 晶舟帳料
+Handshake,PC>PLC,D920.14,M2334,(Tank15) 晶舟帳料
+Handshake,PC>PLC,D920.15,M2335,(Tank16) 晶舟帳料
+Handshake,PC>PLC,D921.0,M2336,(Tank17) 晶舟帳料
+Handshake,PC>PLC,D921.1,M2337,(Tank18) 晶舟帳料
+Handshake,PC>PLC,D921.2,M2338,(Tank19) 晶舟帳料
+Handshake,PC>PLC,D921.3,M2339,(Tank20) 晶舟帳料
+Handshake,PC>PLC,D921.4,M2340,(Tank21) 晶舟帳料
+Handshake,PC>PLC,D921.5,M2341,(Tank22) 晶舟帳料
+Handshake,PC>PLC,D921.6,M2342,(Tank23) 晶舟帳料
+Handshake,PC>PLC,D921.7,M2343,(Tank24) 晶舟帳料
+Handshake,PC>PLC,D921.8,M2344,(Tank25) 晶舟帳料
+Handshake,PC>PLC,D921.9,M2345,(Tank26) 晶舟帳料
+Handshake,PC>PLC,D921.10,M2346,(Tank27) 晶舟帳料
+Handshake,PC>PLC,D921.11,M2347,(Tank28) 晶舟帳料
+Handshake,PC>PLC,D921.12,M2348,(Tank29) 晶舟帳料
+Handshake,PC>PLC,D921.13,M2349,(Tank30) 晶舟帳料
+Handshake,PC>PLC,D921.14,M2350,(Tank31) 晶舟帳料
+Handshake,PC>PLC,D921.15,M2351,
+Handshake,PC>PLC,D922.0,M2352,LD 手自動模式
+Handshake,PC>PLC,D922.1,M2353,LD自動門
+Handshake,PC>PLC,D922.2,M2354,LD 1上升
+Handshake,PC>PLC,D922.3,M2355,LD 1下降
+Handshake,PC>PLC,D922.4,M2356,LD 2上升
+Handshake,PC>PLC,D922.5,M2357,LD 2下降
+Handshake,PC>PLC,D922.6,M2358,LD 橫移前進
+Handshake,PC>PLC,D922.7,M2359,LD 橫移後退
+Handshake,PC>PLC,D922.8,M2360,AK手自動模式
+Handshake,PC>PLC,D922.9,M2361,AK  ORG
+Handshake,PC>PLC,D922.10,M2362,AK 上
+Handshake,PC>PLC,D922.11,M2363,AK 下
+Handshake,PC>PLC,D922.12,M2364,CV手自動模式
+Handshake,PC>PLC,D922.13,M2365,CV ON
+Handshake,PC>PLC,D922.14,M2366,CV自動門
+Handshake,PC>PLC,D922.15,M2367,
+Handshake,PC>PLC,D923.0,M2368,前段正面日光燈
+Handshake,PC>PLC,D923.1,M2369,後段正面日光燈
+Handshake,PC>PLC,D923.2,M2370,前段後面日光燈
+Handshake,PC>PLC,D923.3,M2371,後段後面日光燈
+Handshake,PC>PLC,D923.4,M2372,SC1 KOH選擇
+Handshake,PC>PLC,D923.5,M2373,
+Handshake,PC>PLC,D923.6,M2374,Teach Box 啟動
+Handshake,PC>PLC,D923.7,M2375,RB1 Chuck LOCK
+Handshake,PC>PLC,D923.8,M2376,RB2 Chuck LOCK
+Handshake,PC>PLC,D923.9,M2377,RB3 Chuck LOCK
+Handshake,PC>PLC,D923.10,M2378,RB4  Chuck LOCK
+Handshake,PC>PLC,D923.11,M2379,LD自動入料模式
+Handshake,PC>PLC,D923.12,M2380,DIW DRIAN ON PLS
+Handshake,PC>PLC,D923.13,M2381,TEX DRAIN ON PLS
+Handshake,PC>PLC,D923.14,M2382,DIION DRAIN ON PLS
+Handshake,PC>PLC,D923.15,M2383,
+Handshake,PC>PLC,D924.0,M2384
+Handshake,PC>PLC,D924.1,M2385
+Handshake,PC>PLC,D924.2,M2386
+Handshake,PC>PLC,D924.3,M2387
+Handshake,PC>PLC,D924.4,M2388
+Handshake,PC>PLC,D924.5,M2389
+Handshake,PC>PLC,D924.6,M2390
+Handshake,PC>PLC,D924.7,M2391
+Handshake,PC>PLC,D924.8,M2392
+Handshake,PC>PLC,D924.9,M2393
+Handshake,PC>PLC,D924.10,M2394
+Handshake,PC>PLC,D924.11,M2395
+Handshake,PC>PLC,D924.12,M2396
+Handshake,PC>PLC,D924.13,M2397
+Handshake,PC>PLC,D924.14,M2398
+Handshake,PC>PLC,D924.15,M2399
+Handshake,PC>PLC,D925.0,M2400
+Handshake,PC>PLC,D925.1,M2401
+Handshake,PC>PLC,D925.2,M2402
+Handshake,PC>PLC,D925.3,M2403
+Handshake,PC>PLC,D925.4,M2404
+Handshake,PC>PLC,D925.5,M2405
+Handshake,PC>PLC,D925.6,M2406
+Handshake,PC>PLC,D925.7,M2407
+Handshake,PC>PLC,D925.8,M2408
+Handshake,PC>PLC,D925.9,M2409
+Handshake,PC>PLC,D925.10,M2410
+Handshake,PC>PLC,D925.11,M2411
+Handshake,PC>PLC,D925.12,M2412
+Handshake,PC>PLC,D925.13,M2413
+Handshake,PC>PLC,D925.14,M2414
+Handshake,PC>PLC,D925.15,M2415
+Handshake,PLC>PC,D800.0,M3000,WDT  (Watch Dog Timer)
+Handshake,PLC>PC,D800.1,M3001,ALM REQUEST
+Handshake,PLC>PC,D800.2,M3002,AUTO REQUEST
+Handshake,PLC>PC,D800.3,M3003,MANU REQUEST
+Handshake,PLC>PC,D800.4,M3004,EMG ROBOT
+Handshake,PLC>PC,D800.5,M3005,EMG ALL
+Handshake,PLC>PC,D800.6,M3006,繼續生產
+Handshake,PLC>PC,D800.7,M3007,N/A
+Handshake,PLC>PC,D800.8,M3008,LD REQUEST
+Handshake,PLC>PC,D800.9,M3009,ULD PERMIT
+Handshake,PLC>PC,D800.10,M3010,AK (15)INRUN
+Handshake,PLC>PC,D800.11,M3011,AK  JOG+
+Handshake,PLC>PC,D800.12,M3012,AK JOG -
+Handshake,PLC>PC,D800.13,M3013,HOTAIR PERMIT
+Handshake,PLC>PC,D800.14,M3014,N/A
+Handshake,PLC>PC,D800.15,M3015,Alarm Buzzer OFF回應
+Handshake,PLC>PC,D801.0,M3016,RB1 ORG  OK
+Handshake,PLC>PC,D801.1,M3017,RB2 ORG  OK
+Handshake,PLC>PC,D801.2,M3018,RB3 ORG  OK
+Handshake,PLC>PC,D801.3,M3019,RB4 ORG  OK
+Handshake,PLC>PC,D801.4,M3020,N/A
+Handshake,PLC>PC,D801.5,M3021,RB1 BUSY
+Handshake,PLC>PC,D801.6,M3022,RB2 BUSY
+Handshake,PLC>PC,D801.7,M3023,RB3 BUSY
+Handshake,PLC>PC,D801.8,M3024,RB4 BUSY
+Handshake,PLC>PC,D801.9,M3025,PC命令-Rob Car LOCK Check Disable
+Handshake,PLC>PC,D801.10,M3026,PC命令-Door inter LOCK Check Disable
+Handshake,PLC>PC,D801.11,M3027,PC命令-Exhaust Check  Disable
+Handshake,PLC>PC,D801.12,M3028,繼續生產
+Handshake,PLC>PC,D801.13,M3029,BZ CMD
+Handshake,PLC>PC,D801.14,M3030,
+Handshake,PLC>PC,D801.15,M3031,LD carrier 前進一格完成(RFID)
+Handshake,PLC>PC,D802.0,M3032,RB1 位置命令REPLY
+Handshake,PLC>PC,D802.1,M3033,RB1  命令取消REPLY
+Handshake,PLC>PC,D802.2,M3034,RB1 執行原點動作中
+Handshake,PLC>PC,D802.3,M3035,RB1 執行取料動作中
+Handshake,PLC>PC,D802.4,M3036,RB1 執行置料動作中
+Handshake,PLC>PC,D802.5,M3037,RB1 執行移載動作中
+Handshake,PLC>PC,D802.6,M3038,RB1 執行吹乾動作中
+Handshake,PLC>PC,D802.7,M3039,RB1 執行浸泡動作中
+Handshake,PLC>PC,D802.8,M3040,RB2 位置命令REPLY
+Handshake,PLC>PC,D802.9,M3041,RB2  命令取消REPLY
+Handshake,PLC>PC,D802.10,M3042,RB2 執行原點動作中
+Handshake,PLC>PC,D802.11,M3043,RB2 執行取料動作中
+Handshake,PLC>PC,D802.12,M3044,RB2 執行置料動作中
+Handshake,PLC>PC,D802.13,M3045,RB2 執行移載動作中
+Handshake,PLC>PC,D802.14,M3046,RB2 執行吹乾動作中
+Handshake,PLC>PC,D802.15,M3047,RB2 執行浸泡動作中
+Handshake,PLC>PC,D803.0,M3048,RB3 位置命令REPLY
+Handshake,PLC>PC,D803.1,M3049,RB3  命令取消REPLY
+Handshake,PLC>PC,D803.2,M3050,RB3 執行原點動作中
+Handshake,PLC>PC,D803.3,M3051,RB3 執行取料動作中
+Handshake,PLC>PC,D803.4,M3052,RB3 執行置料動作中
+Handshake,PLC>PC,D803.5,M3053,RB3 執行移載動作中
+Handshake,PLC>PC,D803.6,M3054,RB3 執行吹乾動作中
+Handshake,PLC>PC,D803.7,M3055,RB3 執行浸泡動作中
+Handshake,PLC>PC,D803.8,M3056,
+Handshake,PLC>PC,D803.9,M3057,
+Handshake,PLC>PC,D803.10,M3058,
+Handshake,PLC>PC,D803.11,M3059,
+Handshake,PLC>PC,D803.12,M3060,
+Handshake,PLC>PC,D803.13,M3061,
+Handshake,PLC>PC,D803.14,M3062,
+Handshake,PLC>PC,D803.15,M3063,
+Handshake,PLC>PC,D804.0,M3064,LD 上蓋OPN
+Handshake,PLC>PC,D804.1,M3065,SC1 上蓋
+Handshake,PLC>PC,D804.2,M3066,TEX12上蓋
+Handshake,PLC>PC,D804.3,M3067,TEX34上蓋
+Handshake,PLC>PC,D804.4,M3068,TEX56上蓋
+Handshake,PLC>PC,D804.5,M3069,TEX78上蓋
+Handshake,PLC>PC,D804.6,M3070,DISION上蓋
+Handshake,PLC>PC,D804.7,M3071,HDIW7上蓋
+Handshake,PLC>PC,D804.8,M3072,HDIW8上蓋
+Handshake,PLC>PC,D804.9,M3073,DRY1上蓋
+Handshake,PLC>PC,D804.10,M3074,
+Handshake,PLC>PC,D804.11,M3075,
+Handshake,PLC>PC,D804.12,M3076,
+Handshake,PLC>PC,D804.13,M3077,
+Handshake,PLC>PC,D804.14,M3078,
+Handshake,PLC>PC,D804.15,M3079,
+Handshake,PLC>PC,D805.0,M3080,LD 上蓋CLS
+Handshake,PLC>PC,D805.1,M3081,SC1 上蓋
+Handshake,PLC>PC,D805.2,M3082,TEX12上蓋
+Handshake,PLC>PC,D805.3,M3083,TEX34上蓋
+Handshake,PLC>PC,D805.4,M3084,TEX56上蓋
+Handshake,PLC>PC,D805.5,M3085,TEX78上蓋
+Handshake,PLC>PC,D805.6,M3086,DISION上蓋
+Handshake,PLC>PC,D805.7,M3087,HDIW7上蓋
+Handshake,PLC>PC,D805.8,M3088,HDIW8上蓋
+Handshake,PLC>PC,D805.9,M3089,DRY1上蓋
+Handshake,PLC>PC,D805.10,M3090,
+Handshake,PLC>PC,D805.11,M3091,
+Handshake,PLC>PC,D805.12,M3092,
+Handshake,PLC>PC,D805.13,M3093,
+Handshake,PLC>PC,D805.14,M3094,
+Handshake,PLC>PC,D805.15,M3095,
+Handshake,PLC>PC,D806.0,M3096,Preheat.1 循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.1,M3097,Preheat.2 循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.2,M3098,SC1 循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.3,M3099,TEXA(內循環)循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.4,M3100,TEX12  循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.5,M3101,TEX34  循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.6,M3102,TEXB(內循環)循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.7,M3103,TEX56循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.8,M3104,TEX78循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.9,M3105,HDIW7循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.10,M3106,HDIW8循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.11,M3107,AKF  鼓風機,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.12,M3108,DRY1鼓風機,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.13,M3109,DRY2鼓風機,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.14,M3110,DRY3鼓風機,REPLY  1:開 0:關
+Handshake,PLC>PC,D806.15,M3111,DRY4鼓風機,REPLY  1:開 0:關
+Handshake,PLC>PC,D807.0,M3112,SC1超音波 ,REPLY  1:開 0:關
+Handshake,PLC>PC,D807.1,M3113,Inline heater循環泵,REPLY  1:開 0:關
+Handshake,PLC>PC,D807.2,M3114,,Reply 
+Handshake,PLC>PC,D807.3,M3115,,Reply 
+Handshake,PLC>PC,D807.4,M3116,,Reply 
+Handshake,PLC>PC,D807.5,M3117,,Reply 
+Handshake,PLC>PC,D807.6,M3118,,Reply 
+Handshake,PLC>PC,D807.7,M3119,,Reply 
+Handshake,PLC>PC,D807.8,M3120,,Reply 
+Handshake,PLC>PC,D807.9,M3121,,Reply 
+Handshake,PLC>PC,D807.10,M3122,,Reply 
+Handshake,PLC>PC,D807.11,M3123,,Reply 
+Handshake,PLC>PC,D807.12,M3124,,Reply 
+Handshake,PLC>PC,D807.13,M3125,,Reply 
+Handshake,PLC>PC,D807.14,M3126,,Reply 
+Handshake,PLC>PC,D807.15,M3127,,Reply 
+Handshake,PLC>PC,D808.0,M3128,Preheat.1 加熱中/停止
+Handshake,PLC>PC,D808.1,M3129,Preheat.2 加熱中/停止
+Handshake,PLC>PC,D808.2,M3130,SC1 加熱中/停止
+Handshake,PLC>PC,D808.3,M3131,HDIW1加熱中/停止
+Handshake,PLC>PC,D808.4,M3132,TEXA加熱中/停止
+Handshake,PLC>PC,D808.5,M3133,HDIW2加熱中/停止
+Handshake,PLC>PC,D808.6,M3134,TEXB加熱中/停止
+Handshake,PLC>PC,D808.7,M3135,HDIW3加熱中/停止
+Handshake,PLC>PC,D808.8,M3136,HDIW4加熱中/停止
+Handshake,PLC>PC,D808.9,M3137,HDIW5加熱中/停止
+Handshake,PLC>PC,D808.10,M3138,HDIW6加熱中/停止
+Handshake,PLC>PC,D808.11,M3139,HDIW7加熱中/停止
+Handshake,PLC>PC,D808.12,M3140,HDIW8加熱中/停止
+Handshake,PLC>PC,D808.13,M3141,INLINE加熱中/停止
+Handshake,PLC>PC,D808.14,M3142,AKF 加熱中/停止
+Handshake,PLC>PC,D808.15,M3143,DRY1加熱中/停止
+Handshake,PLC>PC,D809.0,M3144,DRY2加熱中/停止
+Handshake,PLC>PC,D809.1,M3145,DRY3加熱中/停止
+Handshake,PLC>PC,D809.2,M3146,DRY4加熱中/停止
+Handshake,PLC>PC,D809.3,M3147,
+Handshake,PLC>PC,D809.4,M3148,
+Handshake,PLC>PC,D809.5,M3149,
+Handshake,PLC>PC,D809.6,M3150,
+Handshake,PLC>PC,D809.7,M3151,
+Handshake,PLC>PC,D809.8,M3152,
+Handshake,PLC>PC,D809.9,M3153,
+Handshake,PLC>PC,D809.10,M3154,
+Handshake,PLC>PC,D809.11,M3155,
+Handshake,PLC>PC,D809.12,M3156,
+Handshake,PLC>PC,D809.13,M3157,
+Handshake,PLC>PC,D809.14,M3158,
+Handshake,PLC>PC,D809.15,M3159,
+Handshake,PLC>PC,D810.0,M3160,SC1 Drain
+Handshake,PLC>PC,D810.1,M3161,TEXA  Drain
+Handshake,PLC>PC,D810.2,M3162,TEXB Drain
+Handshake,PLC>PC,D810.3,M3163,DISION Drain
+Handshake,PLC>PC,D810.4,M3164,HDIW1 Drain
+Handshake,PLC>PC,D810.5,M3165,HDIW2 Drain
+Handshake,PLC>PC,D810.6,M3166,HDIW3 Drain
+Handshake,PLC>PC,D810.7,M3167,HDIW4 Drain
+Handshake,PLC>PC,D810.8,M3168,HDIW5 Drain
+Handshake,PLC>PC,D810.9,M3169,HDIW6 Drain
+Handshake,PLC>PC,D810.10,M3170,HDIW7 Drain
+Handshake,PLC>PC,D810.11,M3171,
+Handshake,PLC>PC,D810.12,M3172,
+Handshake,PLC>PC,D810.13,M3173,
+Handshake,PLC>PC,D810.14,M3174,
+Handshake,PLC>PC,D810.15,M3175,
+Handshake,PLC>PC,D811.0,M3176,HDIW1 DIW IN Check OK
+Handshake,PLC>PC,D811.1,M3177,HDIW2 DIW IN Check OK
+Handshake,PLC>PC,D811.2,M3178,HDIW3 DIW IN Check OK
+Handshake,PLC>PC,D811.3,M3179,HDIW4 DIW IN Check OK
+Handshake,PLC>PC,D811.4,M3180,HDIW5 DIW IN Check OK
+Handshake,PLC>PC,D811.5,M3181,HDIW6 DIW IN Check OK
+Handshake,PLC>PC,D811.6,M3182,HDIW7 DIW IN Check OK
+Handshake,PLC>PC,D811.7,M3183,HDIW8 DIW IN Check OK
+Handshake,PLC>PC,D811.8,M3184,
+Handshake,PLC>PC,D811.9,M3185,
+Handshake,PLC>PC,D811.10,M3186,
+Handshake,PLC>PC,D811.11,M3187,
+Handshake,PLC>PC,D811.12,M3188,
+Handshake,PLC>PC,D811.13,M3189,
+Handshake,PLC>PC,D811.14,M3190,
+Handshake,PLC>PC,D811.15,M3191,
+Handshake,PLC>PC,D812.0,M3192,SC1洗槽
+Handshake,PLC>PC,D812.1,M3193,TEXA洗槽
+Handshake,PLC>PC,D812.2,M3194,TEXB 洗槽
+Handshake,PLC>PC,D812.3,M3195,HF洗槽
+Handshake,PLC>PC,D812.4,M3196,
+Handshake,PLC>PC,D812.5,M3197,
+Handshake,PLC>PC,D812.6,M3198,
+Handshake,PLC>PC,D812.7,M3199,
+Handshake,PLC>PC,D812.8,M3200,自動溫度停止
+Handshake,PLC>PC,D812.9,M3201,SC停止
+Handshake,PLC>PC,D812.10,M3202,TEX-A停止
+Handshake,PLC>PC,D812.11,M3203,TEX-B停止
+Handshake,PLC>PC,D812.12,M3204,HF停止
+Handshake,PLC>PC,D812.13,M3205,
+Handshake,PLC>PC,D812.14,M3206,
+Handshake,PLC>PC,D812.15,M3207,
+Handshake,PLC>PC,D813.0,M3208
+Handshake,PLC>PC,D813.1,M3209
+Handshake,PLC>PC,D813.2,M3210
+Handshake,PLC>PC,D813.3,M3211
+Handshake,PLC>PC,D813.4,M3212
+Handshake,PLC>PC,D813.5,M3213
+Handshake,PLC>PC,D813.6,M3214
+Handshake,PLC>PC,D813.7,M3215
+Handshake,PLC>PC,D813.8,M3216
+Handshake,PLC>PC,D813.9,M3217
+Handshake,PLC>PC,D813.10,M3218
+Handshake,PLC>PC,D813.11,M3219
+Handshake,PLC>PC,D813.12,M3220
+Handshake,PLC>PC,D813.13,M3221
+Handshake,PLC>PC,D813.14,M3222
+Handshake,PLC>PC,D813.15,M3223
+Handshake,PLC>PC,D814.0,M3224,SC1配槽
+Handshake,PLC>PC,D814.1,M3225,TEXA配槽
+Handshake,PLC>PC,D814.2,M3226,TEXB 配槽
+Handshake,PLC>PC,D814.3,M3227,HF配槽
+Handshake,PLC>PC,D814.4,M3228,TEXA Partial Drain配槽
+Handshake,PLC>PC,D814.5,M3229,TEXB Partial Drain配槽
+Handshake,PLC>PC,D814.6,M3230,SC1 手動添加(plc)
+Handshake,PLC>PC,D814.7,M3231,TEXA手動添加(plc)
+Handshake,PLC>PC,D814.8,M3232,TEXB 手動添加(plc)
+Handshake,PLC>PC,D814.9,M3233,DISION手動添加(plc)
+Handshake,PLC>PC,D814.10,M3234,SC Partial Drain配槽(pc)
+Handshake,PLC>PC,D814.11,M3235,
+Handshake,PLC>PC,D814.12,M3236,
+Handshake,PLC>PC,D814.13,M3237,
+Handshake,PLC>PC,D814.14,M3238,
+Handshake,PLC>PC,D814.15,M3239,HDIW5換酸
+Handshake,PLC>PC,D815.0,M3240
+Handshake,PLC>PC,D815.1,M3241
+Handshake,PLC>PC,D815.2,M3242
+Handshake,PLC>PC,D815.3,M3243
+Handshake,PLC>PC,D815.4,M3244
+Handshake,PLC>PC,D815.5,M3245
+Handshake,PLC>PC,D815.6,M3246
+Handshake,PLC>PC,D815.7,M3247
+Handshake,PLC>PC,D815.8,M3248
+Handshake,PLC>PC,D815.9,M3249
+Handshake,PLC>PC,D815.10,M3250
+Handshake,PLC>PC,D815.11,M3251
+Handshake,PLC>PC,D815.12,M3252
+Handshake,PLC>PC,D815.13,M3253
+Handshake,PLC>PC,D815.14,M3254
+Handshake,PLC>PC,D815.15,M3255
+Handshake,PLC>PC,D816.0,M3256,SC1:加藥H2O2 Dosing
+Handshake,PLC>PC,D816.1,M3257,SC1:加藥KOH Dosing
+Handshake,PLC>PC,D816.2,M3258,SC1:加藥DIW Dosing
+Handshake,PLC>PC,D816.3,M3259,TEXA:加藥IPA Dosing
+Handshake,PLC>PC,D816.4,M3260,TEXA加藥KOH Dosing
+Handshake,PLC>PC,D816.5,M3261,TEXA:加DI Dosing
+Handshake,PLC>PC,D816.6,M3262,TEXB加藥IPA Dosing
+Handshake,PLC>PC,D816.7,M3263,TEXB加藥KOH Dosing
+Handshake,PLC>PC,D816.8,M3264,TEXB加DI Dosing
+Handshake,PLC>PC,D816.9,M3265,DISION:加藥HCL Dosing
+Handshake,PLC>PC,D816.10,M3266,DISION:加藥HF Dosing
+Handshake,PLC>PC,D816.11,M3267,DISION:加藥DIW Dosing
+Handshake,PLC>PC,D816.12,M3268,TEXA 添加劑DOSING
+Handshake,PLC>PC,D816.13,M3269,TEXB 添加劑DOSING
+Handshake,PLC>PC,D816.14,M3270,
+Handshake,PLC>PC,D816.15,M3271,
+Handshake,PLC>PC,D817.0,M3272
+Handshake,PLC>PC,D817.1,M3273
+Handshake,PLC>PC,D817.2,M3274
+Handshake,PLC>PC,D817.3,M3275
+Handshake,PLC>PC,D817.4,M3276
+Handshake,PLC>PC,D817.5,M3277
+Handshake,PLC>PC,D817.6,M3278
+Handshake,PLC>PC,D817.7,M3279
+Handshake,PLC>PC,D817.8,M3280
+Handshake,PLC>PC,D817.9,M3281
+Handshake,PLC>PC,D817.10,M3282
+Handshake,PLC>PC,D817.11,M3283
+Handshake,PLC>PC,D817.12,M3284
+Handshake,PLC>PC,D817.13,M3285
+Handshake,PLC>PC,D817.14,M3286
+Handshake,PLC>PC,D817.15,M3287
+Handshake,PLC>PC,D818.0,M3288,Spare
+Handshake,PLC>PC,D818.1,M3289,Spare
+Handshake,PLC>PC,D818.2,M3290,Spare
+Handshake,PLC>PC,D818.3,M3291,Spare
+Handshake,PLC>PC,D818.4,M3292,Spare
+Handshake,PLC>PC,D818.5,M3293,Spare
+Handshake,PLC>PC,D818.6,M3294,Spare
+Handshake,PLC>PC,D818.7,M3295,Spare
+Handshake,PLC>PC,D818.8,M3296,Spare
+Handshake,PLC>PC,D818.9,M3297,Spare
+Handshake,PLC>PC,D818.10,M3298,Spare
+Handshake,PLC>PC,D818.11,M3299,Spare
+Handshake,PLC>PC,D818.12,M3300,Spare
+Handshake,PLC>PC,D818.13,M3301,Spare
+Handshake,PLC>PC,D818.14,M3302,Spare
+Handshake,PLC>PC,D818.15,M3303,Spare
+Handshake,PLC>PC,D819.0,M3304,Spare
+Handshake,PLC>PC,D819.1,M3305,Spare
+Handshake,PLC>PC,D819.2,M3306,Spare
+Handshake,PLC>PC,D819.3,M3307,Spare
+Handshake,PLC>PC,D819.4,M3308,Spare
+Handshake,PLC>PC,D819.5,M3309,Spare
+Handshake,PLC>PC,D819.6,M3310,Spare
+Handshake,PLC>PC,D819.7,M3311,Spare
+Handshake,PLC>PC,D819.8,M3312,Spare
+Handshake,PLC>PC,D819.9,M3313,Spare
+Handshake,PLC>PC,D819.10,M3314,Spare
+Handshake,PLC>PC,D819.11,M3315,Spare
+Handshake,PLC>PC,D819.12,M3316,Spare
+Handshake,PLC>PC,D819.13,M3317,Spare
+Handshake,PLC>PC,D819.14,M3318,Spare
+Handshake,PLC>PC,D819.15,M3319,Spare
+Handshake,PLC>PC,D820.0,M3320,LD帳料
+Handshake,PLC>PC,D820.1,M3321,SC1-1帳料
+Handshake,PLC>PC,D820.2,M3322,SC1-2帳料
+Handshake,PLC>PC,D820.3,M3323,HDIW1-1帳料
+Handshake,PLC>PC,D820.4,M3324,HDIW1-2帳料
+Handshake,PLC>PC,D820.5,M3325,TEX1帳料
+Handshake,PLC>PC,D820.6,M3326,TEX2帳料
+Handshake,PLC>PC,D820.7,M3327,TEX3帳料
+Handshake,PLC>PC,D820.8,M3328,TEX4帳料
+Handshake,PLC>PC,D820.9,M3329,HDIW2帳料
+Handshake,PLC>PC,D820.10,M3330,TEX5帳料
+Handshake,PLC>PC,D820.11,M3331,TEX6帳料
+Handshake,PLC>PC,D820.12,M3332,TEX7帳料
+Handshake,PLC>PC,D820.13,M3333,TEX8帳料
+Handshake,PLC>PC,D820.14,M3334,HDIW3帳料
+Handshake,PLC>PC,D820.15,M3335,HDIW4-1帳料
+Handshake,PLC>PC,D821.0,M3336,HDIW4-2帳料
+Handshake,PLC>PC,D821.1,M3337,DISION1-1帳料
+Handshake,PLC>PC,D821.2,M3338,DISION1-2帳料
+Handshake,PLC>PC,D821.3,M3339,HDIW5帳料
+Handshake,PLC>PC,D821.4,M3340,HDIW6-1帳料
+Handshake,PLC>PC,D821.5,M3341,HDIW6-2帳料
+Handshake,PLC>PC,D821.6,M3342,HDIW7帳料
+Handshake,PLC>PC,D821.7,M3343,HDIW8帳料
+Handshake,PLC>PC,D821.8,M3344,AK帳料
+Handshake,PLC>PC,D821.9,M3345,DRY1
+Handshake,PLC>PC,D821.10,M3346,DRY2
+Handshake,PLC>PC,D821.11,M3347,DRY3
+Handshake,PLC>PC,D821.12,M3348,DRY4
+Handshake,PLC>PC,D821.13,M3349,DRY5
+Handshake,PLC>PC,D821.14,M3350,DRY6
+Handshake,PLC>PC,D821.15,M3351,
+Handshake,PLC>PC,D822.0,M3352,LD 手自動模式
+Handshake,PLC>PC,D822.1,M3353,LD自動門
+Handshake,PLC>PC,D822.2,M3354,LD 1上升
+Handshake,PLC>PC,D822.3,M3355,LD 1下降
+Handshake,PLC>PC,D822.4,M3356,LD 2上升
+Handshake,PLC>PC,D822.5,M3357,LD 2下降
+Handshake,PLC>PC,D822.6,M3358,LD 橫移前進
+Handshake,PLC>PC,D822.7,M3359,LD 橫移後退
+Handshake,PLC>PC,D822.8,M3360,AK手自動模式
+Handshake,PLC>PC,D822.9,M3361,AK  ORG
+Handshake,PLC>PC,D822.10,M3362,AK 上
+Handshake,PLC>PC,D822.11,M3363,AK 下
+Handshake,PLC>PC,D822.12,M3364,CV手自動模式
+Handshake,PLC>PC,D822.13,M3365,CV ON
+Handshake,PLC>PC,D822.14,M3366,CV自動門
+Handshake,PLC>PC,D822.15,M3367,
+Handshake,PLC>PC,D823.0,M3368,前段正面日光燈
+Handshake,PLC>PC,D823.1,M3369,後段正面日光燈
+Handshake,PLC>PC,D823.2,M3370,前段後面日光燈
+Handshake,PLC>PC,D823.3,M3371,後段後面日光燈
+Handshake,PLC>PC,D823.4,M3372,SC1 KOH選擇
+Handshake,PLC>PC,D823.5,M3373,
+Handshake,PLC>PC,D823.6,M3374,Teach Box 啟動
+Handshake,PLC>PC,D823.7,M3375,RB1 Chuck LOCK
+Handshake,PLC>PC,D823.8,M3376,RB2 Chuck LOCK
+Handshake,PLC>PC,D823.9,M3377,RB3 Chuck LOCK
+Handshake,PLC>PC,D823.10,M3378,RB4  Chuck LOCK
+Handshake,PLC>PC,D823.11,M3379,自動入料MODE(GPM)
+Handshake,PLC>PC,D823.12,M3380,DIW DRIAN ON 
+Handshake,PLC>PC,D823.13,M3381,TEX DRAIN ON 
+Handshake,PLC>PC,D823.14,M3382,DIION DRAIN ON 
+Handshake,PLC>PC,D823.15,M3383,
+Handshake,PLC>PC,D824.0,M3384
+Handshake,PLC>PC,D824.1,M3385
+Handshake,PLC>PC,D824.2,M3386
+Handshake,PLC>PC,D824.3,M3387
+Handshake,PLC>PC,D824.4,M3388
+Handshake,PLC>PC,D824.5,M3389
+Handshake,PLC>PC,D824.6,M3390
+Handshake,PLC>PC,D824.7,M3391
+Handshake,PLC>PC,D824.8,M3392
+Handshake,PLC>PC,D824.9,M3393
+Handshake,PLC>PC,D824.10,M3394
+Handshake,PLC>PC,D824.11,M3395
+Handshake,PLC>PC,D824.12,M3396
+Handshake,PLC>PC,D824.13,M3397
+Handshake,PLC>PC,D824.14,M3398
+Handshake,PLC>PC,D824.15,M3399
+Handshake,PLC>PC,D825.0,M3400
+Handshake,PLC>PC,D825.1,M3401
+Handshake,PLC>PC,D825.2,M3402
+Handshake,PLC>PC,D825.3,M3403
+Handshake,PLC>PC,D825.4,M3404
+Handshake,PLC>PC,D825.5,M3405
+Handshake,PLC>PC,D825.6,M3406
+Handshake,PLC>PC,D825.7,M3407
+Handshake,PLC>PC,D825.8,M3408
+Handshake,PLC>PC,D825.9,M3409
+Handshake,PLC>PC,D825.10,M3410
+Handshake,PLC>PC,D825.11,M3411
+Handshake,PLC>PC,D825.12,M3412
+Handshake,PLC>PC,D825.13,M3413
+Handshake,PLC>PC,D825.14,M3414
+Handshake,PLC>PC,D825.15,M3415

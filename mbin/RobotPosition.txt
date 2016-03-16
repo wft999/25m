@@ -1,0 +1,5 @@
+[robot2-19]
+MvLock = 572294
+MvPosH = 726961
+MvPosV = 6532651
+
